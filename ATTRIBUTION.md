@@ -93,3 +93,30 @@ Every image in `images/`, its source and the licence its source states.
 | japan2023hef-3 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=l5ES3r-Ugso&t=10000s | NVS |
 | all-japan-2025-halfsize-unknown-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=pVBAGXl68LQ&t=11000s | NVS |
 | japan2021hef-3 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=1yv3xGaN2JA&t=3200s | NVS |
+| chubu-43-2026-classic-1 | none stated (shared for research, see README) | https://www.youtube.com/live/n_NJ3_16bM8?t=3202 | マイクロマウス中部支部 |
+| chubu-43-2026-classic-2 | none stated (shared for research, see README) | https://www.youtube.com/live/n_NJ3_16bM8?t=3220 | マイクロマウス中部支部 |
+| chubu-43-2026-classic-3 | none stated (shared for research, see README) | https://www.youtube.com/live/n_NJ3_16bM8?t=3238 | マイクロマウス中部支部 |
+| robochallenge-br-2025-classic-1 | none stated (shared for research, see README) | https://youtu.be/A_WFLTaZ7R4?t=2 | Raijū Team (Marco Abensur) |
+| robochallenge-br-2025-classic-2 | none stated (shared for research, see README) | https://youtu.be/A_WFLTaZ7R4?t=4 | Raijū Team (Marco Abensur) |
+| rcx-2026-classic-1 | CC-BY-4.0 (Team Micras) | file:sources/rcx-owner.mp4#t=4.5 | owner's video |
+| rcx-2026-classic-2 | CC-BY-4.0 (Team Micras) | file:sources/rcx-owner.mp4#t=5.5 | owner's video |
+| rcx-2026-classic-3 | CC-BY-4.0 (Team Micras) | file:sources/rcx-owner.mp4#t=6.5 | owner's video |
+| rcx-2026-classic-day1-1 | CC-BY-4.0 (Team Micras) | file:sources/rcx-2026-day1-owner.jpg | owner's photo |
+| uk-spring-2025-classic-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=SQk96S-ChrM&t=961 | MicroMouse (UKMARS) |
+| uk-spring-2025-classic-2 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=SQk96S-ChrM&t=2161 | MicroMouse (UKMARS) |
+| uk-spring-2025-classic-3 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=SQk96S-ChrM&t=3661 | MicroMouse (UKMARS) |
+| apec-2025-classic-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=-eXLuhPv7og&t=661 | MicroMouse (APEC 2025 coverage) |
+| apec-2025-classic-2 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=-eXLuhPv7og&t=2161 | MicroMouse (APEC 2025 coverage) |
+| apec-2025-classic-3 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=-eXLuhPv7og&t=3361 | MicroMouse (APEC 2025 coverage) |
+| apec-2026-classic-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=GggChqiISAw&t=141 | MicroMouse (APEC 2026 coverage) |
+| apec-2026-classic-2 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=GggChqiISAw&t=501 | MicroMouse (APEC 2026 coverage) |
+| uk-final-2026-classic-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=nat90xEqVzA&t=341 | MicroMouse (UKMARS) |
+| uk-final-2026-classic-2 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=nat90xEqVzA&t=101 | MicroMouse (UKMARS) |
+| uk-autumn-2025-classic-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=Q--6B3q29i8&t=61 | MicroMouse (UKMARS) |
+| uk-autumn-2025-classic-2 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=Q--6B3q29i8&t=2161 | MicroMouse (UKMARS) |
+| uk-autumn-2025-classic-3 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=Q--6B3q29i8&t=3661 | MicroMouse (UKMARS) |
+| alljapan-2025-classic-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=YAk1_WndHuw&t=9101 | NVS |
+| alljapan-2025-classic-2 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=YAk1_WndHuw&t=12401 | NVS |
+| alljapan-2025-classic-3 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=YAk1_WndHuw&t=14601 | NVS |
+| alljapan-2025-halfsize-1 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=0xZYN4PxBbg&t=1141 | hidejr1053 (vlog) |
+| alljapan-2025-halfsize-2 | none stated (shared for research, see README) | https://www.youtube.com/watch?v=0xZYN4PxBbg&t=1561 | hidejr1053 (vlog) |
