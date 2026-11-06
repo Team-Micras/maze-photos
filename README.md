@@ -22,9 +22,11 @@ pixel centres at whole coordinates. Wall truth is the maze file itself.
 
 ## Licences
 
-- Most frames come from public competition streams with no stated licence. For those the dataset carries only the
-  reference (video URL and timestamp) and the annotation, never the image: fetch the frame from the source to use it.
-- `images/` holds the frames from Creative Commons videos (credited in `ATTRIBUTION.md`) and Team Micras' own photos.
+- `images/` holds every frame. Each one is credited in `ATTRIBUTION.md` with its source URL, timestamp and channel.
+- Frames from Creative Commons videos keep that licence; Team Micras' own photos are CC BY 4.0.
+- Most frames are stills from public competition streams that state no licence. They belong to their authors, are
+  not covered by this repository's licences, and are shared only for research and for documenting the category. If
+  you own one and want it removed or credited differently, open an issue and it will be taken down.
 - Annotations, labels and reviews: [CC BY 4.0](LICENSE-DATA). Code in `tools/`: [MIT](LICENSE).
 
 ## Status
