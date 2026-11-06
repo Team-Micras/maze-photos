@@ -1,0 +1,6959 @@
+[
+ {
+  "id": "apec2024-1",
+  "mazeFiles": [
+   "classic/apec2024.txt"
+  ],
+  "competition": "APEC",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=-0z3v3Sw34A&t=185s",
+   "timestamp": 185,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20240624",
+   "title": "Maze Solving Robots and More | Full APEC 2024 Micromouse Competition"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1268.7,
+    225.1
+   ],
+   [
+    1774.2,
+    680.0
+   ],
+   [
+    922.6,
+    1041.7
+   ],
+   [
+    629.6,
+    398.3
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.7,
+  "nextBest": 0.446,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 46.5,
+  "gridSize": 16,
+  "notes": "Full maze, small robot in corner.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1269.0,
+    224.5
+   ],
+   [
+    1774.5,
+    680.0
+   ],
+   [
+    922.0,
+    1042.0
+   ],
+   [
+    629.0,
+    398.0
+   ]
+  ],
+  "contrast": 0.696,
+  "lensFit": {
+   "h": [
+    -0.1986716441768468,
+    -44.845953036599504,
+    1267.4587410251215,
+    16.451509322175692,
+    7.975040945027816,
+    222.5746521839118,
+    -0.01776477231175649,
+    -0.007731777851829307
+   ],
+   "posts": 69,
+   "before": 3.708650838870805,
+   "hFit": 3.3586691137379128,
+   "k1Fit": 3.189471991971979,
+   "k1": 0.042342032646526445,
+   "bendCells": 0.08703731356222856,
+   "cornersImage": [
+    [
+     1269.6,
+     220.4
+    ],
+    [
+     1785.2,
+     682.0
+    ],
+    [
+     923.2,
+     1040.3
+    ],
+    [
+     626.0,
+     399.0
+    ]
+   ]
+  },
+  "k1": 0.0423,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec2024-2",
+  "mazeFiles": [
+   "classic/apec2024.txt"
+  ],
+  "competition": "APEC",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=-0z3v3Sw34A&t=845s",
+   "timestamp": 845,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20240624",
+   "title": "Maze Solving Robots and More | Full APEC 2024 Micromouse Competition"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1264.0,
+    227.7
+   ],
+   [
+    1767.7,
+    686.0
+   ],
+   [
+    914.8,
+    1044.6
+   ],
+   [
+    624.5,
+    398.6
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.699,
+  "nextBest": 0.443,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 46.5,
+  "gridSize": 16,
+  "notes": "",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1264.0,
+    228.0
+   ],
+   [
+    1768.0,
+    686.0
+   ],
+   [
+    914.5,
+    1045.5
+   ],
+   [
+    624.5,
+    398.0
+   ]
+  ],
+  "contrast": 0.695,
+  "lensFit": {
+   "h": [
+    0.0023717489162849935,
+    -45.04657941696423,
+    1264.3470272241182,
+    16.643755111915127,
+    7.803663921521395,
+    224.76296213369693,
+    -0.017606390811215976,
+    -0.007830441928095995
+   ],
+   "posts": 69,
+   "before": 3.687353271367514,
+   "hFit": 3.396841292415327,
+   "k1Fit": 3.2515221870943147,
+   "k1": 0.0397408792435027,
+   "bendCells": 0.08166232112708025,
+   "cornersImage": [
+    [
+     1266.3,
+     222.8
+    ],
+    [
+     1777.6,
+     686.8
+    ],
+    [
+     916.4,
+     1042.7
+    ],
+    [
+     620.0,
+     399.1
+    ]
+   ]
+  },
+  "k1": 0.0397,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "alljapan-045-2024-exp-fin-1",
+  "mazeFiles": [
+   "classic/alljapan-045-2024-exp-fin.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=qn96nOn1xeE&t=2100s",
+   "timestamp": 2100,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20250223",
+   "title": "クラシックマウスA 第45回 全日本マイクロマウス大会 Micromouse 2024 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    607.0,
+    11.0
+   ],
+   [
+    1204.0,
+    190.0
+   ],
+   [
+    783.7,
+    662.0
+   ],
+   [
+    56.0,
+    216.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.419,
+  "nextBest": 0.146,
+  "nextBestFiles": [
+   "classic/ph-three-routes-2.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 42.1,
+  "gridSize": 16,
+  "notes": "Classic A, fixed camera on the maze; 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    607.0,
+    11.0
+   ],
+   [
+    1204.0,
+    190.0
+   ],
+   [
+    784.0,
+    662.0
+   ],
+   [
+    56.0,
+    216.0
+   ]
+  ],
+  "contrast": 0.419,
+  "lensFit": {
+   "h": [
+    18.627530175618954,
+    -35.50854961253098,
+    605.7972268315626,
+    8.332678837516205,
+    8.530187482868781,
+    9.052689062594457,
+    -0.015622579892656844,
+    -0.02010202508270817
+   ],
+   "posts": 68,
+   "before": 3.0968965350636286,
+   "hFit": 2.5075108299383575,
+   "k1Fit": 2.506899576796789,
+   "k1": 0.00044581996661084195,
+   "bendCells": 0.0020629253611557617,
+   "cornersImage": [
+    [
+     605.8,
+     9.0
+    ],
+    [
+     1205.2,
+     189.8
+    ],
+    [
+     783.6,
+     650.9
+    ],
+    [
+     55.3,
+     214.5
+    ]
+   ]
+  },
+  "k1": 0.0004,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "alljapan-045-2024-exp-fin-2",
+  "mazeFiles": [
+   "classic/alljapan-045-2024-exp-fin.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=qn96nOn1xeE&t=12300s",
+   "timestamp": 12300,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20250223",
+   "title": "クラシックマウスA 第45回 全日本マイクロマウス大会 Micromouse 2024 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    607.0,
+    10.3
+   ],
+   [
+    1202.0,
+    190.0
+   ],
+   [
+    784.0,
+    660.6
+   ],
+   [
+    54.5,
+    215.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.411,
+  "nextBest": 0.141,
+  "nextBestFiles": [
+   "classic/ph-three-routes-2.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 42.1,
+  "gridSize": 16,
+  "notes": "Classic A, fixed camera on the maze; 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    607.0,
+    10.0
+   ],
+   [
+    1202.0,
+    190.0
+   ],
+   [
+    784.0,
+    659.0
+   ],
+   [
+    55.0,
+    216.0
+   ]
+  ],
+  "contrast": 0.412,
+  "lensFit": {
+   "h": [
+    18.73590416668423,
+    -35.568544326616085,
+    605.8180314817135,
+    8.356695719530784,
+    8.567264018886194,
+    8.190624804263392,
+    -0.015578059698722866,
+    -0.02007504425953937
+   ],
+   "posts": 67,
+   "before": 3.187145668855864,
+   "hFit": 2.45163598554621,
+   "k1Fit": 2.4589972532774658,
+   "k1": -0.006656840322062462,
+   "bendCells": 0.031027803913561185,
+   "cornersImage": [
+    [
+     605.9,
+     8.7
+    ],
+    [
+     1203.8,
+     189.7
+    ],
+    [
+     783.2,
+     649.1
+    ],
+    [
+     56.7,
+     214.7
+    ]
+   ]
+  },
+  "k1": -0.0067,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2023hef-1",
+  "mazeFiles": [
+   "halfsize/japan2023hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2023,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=l5ES3r-Ugso&t=10200s",
+   "timestamp": 10200,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20240218",
+   "title": "マイクロマウスファイナル 第44回 全日本マイクロマウス大会 Micromouse 2023 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    661.0,
+    41.3
+   ],
+   [
+    1280.0,
+    250.7
+   ],
+   [
+    704.0,
+    795.5
+   ],
+   [
+    36.3,
+    221.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.329,
+  "nextBest": 0.033,
+  "nextBestFiles": [
+   "halfsize/japan2012hef.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 23.2,
+  "gridSize": 32,
+  "notes": "Half-size final, fixed camera; bottom corner is outside the frame (extrapolated). 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+  },
+  "cornersPrev": [
+   [
+    661.0,
+    41.0
+   ],
+   [
+    1281.0,
+    251.0
+   ],
+   [
+    704.0,
+    793.0
+   ],
+   [
+    38.0,
+    221.0
+   ]
+  ],
+  "contrast": 0.329,
+  "lensFit": {
+   "h": [
+    7.093785909574365,
+    -20.071435380000636,
+    661.0413368223088,
+    4.160107888942538,
+    3.4225546470303856,
+    36.53370390877231,
+    -0.00988905788560205,
+    -0.010446077518338133
+   ],
+   "posts": 207,
+   "before": 2.0413893934796232,
+   "hFit": 1.6157325116937384,
+   "k1Fit": 0.7956020627371398,
+   "k1": -0.07760932819819497,
+   "bendCells": 0.8039964733755733,
+   "cornersImage": [
+    [
+     660.7,
+     41.4
+    ],
+    [
+     1256.8,
+     255.4
+    ],
+    [
+     701.8,
+     786.8
+    ],
+    [
+     62.9,
+     227.4
+    ]
+   ]
+  },
+  "k1": -0.0776,
+  "distortion": "mild",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2023hef-2",
+  "mazeFiles": [
+   "halfsize/japan2023hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2023,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=l5ES3r-Ugso&t=12000s",
+   "timestamp": 12000,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20240218",
+   "title": "マイクロマウスファイナル 第44回 全日本マイクロマウス大会 Micromouse 2023 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    659.1,
+    42.3
+   ],
+   [
+    1277.0,
+    251.4
+   ],
+   [
+    701.8,
+    795.2
+   ],
+   [
+    34.5,
+    222.1
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.32,
+  "nextBest": 0.029,
+  "nextBestFiles": [
+   "halfsize/japan2012hef.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 23.2,
+  "gridSize": 32,
+  "notes": "Half-size final, fixed camera; bottom corner is outside the frame (extrapolated). 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+  },
+  "cornersPrev": [
+   [
+    659.0,
+    42.0
+   ],
+   [
+    1279.0,
+    251.5
+   ],
+   [
+    701.5,
+    793.5
+   ],
+   [
+    36.0,
+    222.0
+   ]
+  ],
+  "contrast": 0.321,
+  "lensFit": {
+   "h": [
+    7.1129220502366675,
+    -20.04547342322307,
+    658.7874221327642,
+    4.140843831749171,
+    3.4004481761833163,
+    37.84103444922556,
+    -0.009869114692975888,
+    -0.010477716598859226
+   ],
+   "posts": 206,
+   "before": 2.0247548652695815,
+   "hFit": 1.6128088391681699,
+   "k1Fit": 0.8108549725937956,
+   "k1": -0.07664076192090175,
+   "bendCells": 0.792460826596636,
+   "cornersImage": [
+    [
+     658.5,
+     42.6
+    ],
+    [
+     1254.4,
+     256.0
+    ],
+    [
+     700.3,
+     787.8
+    ],
+    [
+     60.7,
+     228.5
+    ]
+   ]
+  },
+  "k1": -0.0766,
+  "distortion": "mild",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "alljapan-046-2025-exp-fin-1",
+  "mazeFiles": [
+   "classic/alljapan-046-2025-exp-fin.txt",
+   "classic/japan2017eq.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=YAk1_WndHuw&t=9101s",
+   "timestamp": 9101,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20260222",
+   "title": "クラシックマウスA 第46回 全日本マイクロマウス大会 Micromouse 2025 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    901.0,
+    114.5
+   ],
+   [
+    1820.0,
+    181.4
+   ],
+   [
+    1198.0,
+    941.6
+   ],
+   [
+    147.1,
+    545.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.353,
+  "nextBest": 0.1,
+  "nextBestFiles": [
+   "classic/uknov2016f.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 60.9,
+  "gridSize": 16,
+  "notes": "Scoreboard graphic bottom-right, officials at the table top-left; no robot in frames 2-3, tiny robot possible near start.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    901.0,
+    114.5
+   ],
+   [
+    1820.0,
+    181.0
+   ],
+   [
+    1198.0,
+    942.0
+   ],
+   [
+    147.5,
+    545.0
+   ]
+  ],
+  "contrast": 0.34,
+  "lensFit": {
+   "h": [
+    25.25206487826222,
+    -49.25564930795022,
+    898.937751551244,
+    1.134097507809794,
+    16.34995661965501,
+    121.49712312537896,
+    -0.017343220739043937,
+    -0.018324170095740985
+   ],
+   "posts": 73,
+   "before": 7.418761839045889,
+   "hFit": 7.282310277109154,
+   "k1Fit": 7.193970886462538,
+   "k1": 0.04947492160832022,
+   "bendCells": 0.20403414432771808,
+   "cornersImage": [
+    [
+     898.5,
+     118.4
+    ],
+    [
+     1832.0,
+     181.5
+    ],
+    [
+     1201.4,
+     938.0
+    ],
+    [
+     135.7,
+     542.1
+    ]
+   ]
+  },
+  "k1": 0.0495,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "alljapan-046-2025-exp-fin-2",
+  "mazeFiles": [
+   "classic/alljapan-046-2025-exp-fin.txt",
+   "classic/japan2017eq.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=YAk1_WndHuw&t=12401s",
+   "timestamp": 12401,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20260222",
+   "title": "クラシックマウスA 第46回 全日本マイクロマウス大会 Micromouse 2025 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    900.0,
+    115.0
+   ],
+   [
+    1817.0,
+    181.4
+   ],
+   [
+    1199.0,
+    939.6
+   ],
+   [
+    143.6,
+    545.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.35,
+  "nextBest": 0.102,
+  "nextBestFiles": [
+   "classic/uknov2016f.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 60.9,
+  "gridSize": 16,
+  "notes": "Scoreboard graphic bottom-right, officials at the table top-left; no robot in frames 2-3, tiny robot possible near start.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    900.0,
+    115.0
+   ],
+   [
+    1817.0,
+    181.0
+   ],
+   [
+    1199.0,
+    940.0
+   ],
+   [
+    144.0,
+    545.0
+   ]
+  ],
+  "contrast": 0.34,
+  "lensFit": {
+   "h": [
+    25.059721939565325,
+    -49.53780654351187,
+    901.8348614266995,
+    1.2224640813493217,
+    16.1374407149576,
+    121.29259245042294,
+    -0.01726297179842115,
+    -0.018596461912564508
+   ],
+   "posts": 75,
+   "before": 8.241116193558282,
+   "hFit": 7.815528546631891,
+   "k1Fit": 7.758181713849849,
+   "k1": 0.043032263759542,
+   "bendCells": 0.17711624657591754,
+   "cornersImage": [
+    [
+     901.5,
+     118.6
+    ],
+    [
+     1824.5,
+     184.5
+    ],
+    [
+     1198.7,
+     939.2
+    ],
+    [
+     137.0,
+     540.2
+    ]
+   ]
+  },
+  "k1": 0.043,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "alljapan-046-2025-exp-fin-3",
+  "mazeFiles": [
+   "classic/alljapan-046-2025-exp-fin.txt",
+   "classic/japan2017eq.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=YAk1_WndHuw&t=14601s",
+   "timestamp": 14601,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20260222",
+   "title": "クラシックマウスA 第46回 全日本マイクロマウス大会 Micromouse 2025 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    901.5,
+    113.5
+   ],
+   [
+    1813.4,
+    181.8
+   ],
+   [
+    1198.6,
+    940.2
+   ],
+   [
+    141.6,
+    543.6
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.359,
+  "nextBest": 0.102,
+  "nextBestFiles": [
+   "classic/uknov2016f.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 60.8,
+  "gridSize": 16,
+  "notes": "Scoreboard graphic bottom-right, officials at the table top-left; no robot in frames 2-3, tiny robot possible near start.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    901.5,
+    113.5
+   ],
+   [
+    1813.0,
+    181.0
+   ],
+   [
+    1199.0,
+    941.0
+   ],
+   [
+    142.0,
+    544.0
+   ]
+  ],
+  "contrast": 0.35,
+  "lensFit": {
+   "h": [
+    25.2400272561333,
+    -49.37501554568546,
+    898.906699713218,
+    0.9438941013243289,
+    16.58075930598457,
+    119.57195601039123,
+    -0.017557816521014954,
+    -0.018173210754621354
+   ],
+   "posts": 72,
+   "before": 6.987421661596429,
+   "hFit": 6.6853893456411795,
+   "k1Fit": 6.718923207404618,
+   "k1": 0.02673846314883018,
+   "bendCells": 0.11238888142428968,
+   "cornersImage": [
+    [
+     898.7,
+     117.9
+    ],
+    [
+     1827.7,
+     180.7
+    ],
+    [
+     1198.3,
+     935.7
+    ],
+    [
+     142.0,
+     542.7
+    ]
+   ]
+  },
+  "k1": 0.0267,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec2025-1",
+  "mazeFiles": [
+   "classic/apec2025.txt"
+  ],
+  "competition": "APEC",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=-eXLuhPv7og&t=661s",
+   "timestamp": 661,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20250827",
+   "title": "Micromouse at APEC 2025 | Full Contest Coverage"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1549.5,
+    249.5
+   ],
+   [
+    1857.5,
+    1058.0
+   ],
+   [
+    605.5,
+    1056.0
+   ],
+   [
+    735.0,
+    251.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.519,
+  "nextBest": 0.343,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 58.5,
+  "gridSize": 16,
+  "notes": "A vertical camera support wire crosses the maze (thin line); robot overlay graphic outside the maze; robot on maze in frame 2.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1549.5,
+    249.5
+   ],
+   [
+    1857.5,
+    1058.0
+   ],
+   [
+    605.5,
+    1056.0
+   ],
+   [
+    735.0,
+    251.5
+   ]
+  ],
+  "contrast": 0.514,
+  "lensFit": {
+   "h": [
+    -21.067270900162708,
+    -50.43167502514501,
+    1548.7409062955292,
+    27.688518484862538,
+    0.20976731773992946,
+    248.82691236370792,
+    -0.021502061547687468,
+    0.0004651599281609151
+   ],
+   "posts": 80,
+   "before": 2.7539787158256144,
+   "hFit": 2.2297077299987946,
+   "k1Fit": 2.13445778692165,
+   "k1": 0.03039199166433664,
+   "bendCells": 0.089770254491475,
+   "cornersImage": [
+    [
+     1555.1,
+     245.7
+    ],
+    [
+     1870.5,
+     1068.3
+    ],
+    [
+     606.8,
+     1052.8
+    ],
+    [
+     735.6,
+     249.3
+    ]
+   ]
+  },
+  "k1": 0.0304,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec2025-2",
+  "mazeFiles": [
+   "classic/apec2025.txt"
+  ],
+  "competition": "APEC",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=-eXLuhPv7og&t=2161s",
+   "timestamp": 2161,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20250827",
+   "title": "Micromouse at APEC 2025 | Full Contest Coverage"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1550.0,
+    250.5
+   ],
+   [
+    1862.0,
+    1060.0
+   ],
+   [
+    606.0,
+    1056.0
+   ],
+   [
+    736.0,
+    252.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.519,
+  "nextBest": 0.344,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 58.6,
+  "gridSize": 16,
+  "notes": "A vertical camera support wire crosses the maze (thin line); robot overlay graphic outside the maze; robot on maze in frame 2.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1550.0,
+    250.5
+   ],
+   [
+    1862.0,
+    1060.0
+   ],
+   [
+    606.0,
+    1056.0
+   ],
+   [
+    736.0,
+    252.5
+   ]
+  ],
+  "contrast": 0.513,
+  "lensFit": {
+   "h": [
+    -21.17565574079463,
+    -50.503888744280246,
+    1550.0908921861378,
+    27.631093840165562,
+    0.21175291003232,
+    249.53957418324526,
+    -0.02161516849855402,
+    0.00045474890869626346
+   ],
+   "posts": 80,
+   "before": 2.5725573090305893,
+   "hFit": 2.261508245202935,
+   "k1Fit": 2.242365705978622,
+   "k1": 0.024808327142232026,
+   "bendCells": 0.07436537455286336,
+   "cornersImage": [
+    [
+     1555.3,
+     247.0
+    ],
+    [
+     1871.0,
+     1068.5
+    ],
+    [
+     606.9,
+     1054.8
+    ],
+    [
+     736.1,
+     250.3
+    ]
+   ]
+  },
+  "k1": 0.0248,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec2025-3",
+  "mazeFiles": [
+   "classic/apec2025.txt"
+  ],
+  "competition": "APEC",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=-eXLuhPv7og&t=3361s",
+   "timestamp": 3361,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20250827",
+   "title": "Micromouse at APEC 2025 | Full Contest Coverage"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1552.6,
+    248.0
+   ],
+   [
+    1859.1,
+    1056.5
+   ],
+   [
+    608.5,
+    1055.1
+   ],
+   [
+    736.5,
+    250.6
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.519,
+  "nextBest": 0.344,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 58.5,
+  "gridSize": 16,
+  "notes": "A vertical camera support wire crosses the maze (thin line); robot overlay graphic outside the maze; robot on maze in frame 2.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1553.0,
+    248.0
+   ],
+   [
+    1859.5,
+    1056.5
+   ],
+   [
+    608.5,
+    1055.5
+   ],
+   [
+    736.5,
+    251.0
+   ]
+  ],
+  "contrast": 0.513,
+  "lensFit": {
+   "h": [
+    -20.99775945896199,
+    -50.60149247066047,
+    1552.9402018926817,
+    27.8597169989483,
+    0.29579643555022506,
+    247.06865845830515,
+    -0.021430912867683814,
+    0.0005184489085320399
+   ],
+   "posts": 81,
+   "before": 2.783883455291934,
+   "hFit": 2.4298174684582357,
+   "k1Fit": 2.320783363993779,
+   "k1": 0.02286966750564054,
+   "bendCells": 0.06845853166246062,
+   "cornersImage": [
+    [
+     1557.8,
+     244.7
+    ],
+    [
+     1869.9,
+     1064.6
+    ],
+    [
+     609.7,
+     1052.0
+    ],
+    [
+     736.6,
+     249.0
+    ]
+   ]
+  },
+  "k1": 0.0229,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec2026-1",
+  "mazeFiles": [
+   "classic/apec2026.txt"
+  ],
+  "competition": "APEC",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=GggChqiISAw&t=141s",
+   "timestamp": 141,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20260430",
+   "title": "World's Fastest Maze Robots Compete at APEC 2026"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1222.0,
+    500.7
+   ],
+   [
+    1304.7,
+    1029.2
+   ],
+   [
+    203.3,
+    968.9
+   ],
+   [
+    553.6,
+    477.4
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.492,
+  "nextBest": 0.297,
+  "nextBestFiles": [
+   "classic/apec2019.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 45.5,
+  "gridSize": 16,
+  "notes": "Two thin support wires cross the maze; robot on the maze in frame 2; far rows are small.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1222.0,
+    501.0
+   ],
+   [
+    1305.0,
+    1029.5
+   ],
+   [
+    203.0,
+    970.0
+   ],
+   [
+    553.0,
+    478.0
+   ]
+  ],
+  "contrast": 0.485,
+  "lensFit": {
+   "h": [
+    -27.16412137738944,
+    -40.73113269650604,
+    1222.4726071031478,
+    7.502623719961591,
+    -0.4880858513693976,
+    498.79221210165275,
+    -0.02468677939020094,
+    0.0019570528487158415
+   ],
+   "posts": 67,
+   "before": 3.2123261672589822,
+   "hFit": 1.0458565811418084,
+   "k1Fit": 0.9270716993430327,
+   "k1": 0.019146385920517525,
+   "bendCells": 0.04295145759202348,
+   "cornersImage": [
+    [
+     1222.8,
+     498.7
+    ],
+    [
+     1304.1,
+     1025.5
+    ],
+    [
+     205.3,
+     965.1
+    ],
+    [
+     552.4,
+     475.9
+    ]
+   ]
+  },
+  "k1": 0.0191,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec2026-2",
+  "mazeFiles": [
+   "classic/apec2026.txt"
+  ],
+  "competition": "APEC",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=GggChqiISAw&t=501s",
+   "timestamp": 501,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20260430",
+   "title": "World's Fastest Maze Robots Compete at APEC 2026"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1220.6,
+    500.0
+   ],
+   [
+    1301.4,
+    1024.0
+   ],
+   [
+    200.5,
+    970.5
+   ],
+   [
+    551.5,
+    479.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.491,
+  "nextBest": 0.291,
+  "nextBestFiles": [
+   "classic/apec2019.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 45.4,
+  "gridSize": 16,
+  "notes": "Two thin support wires cross the maze; robot on the maze in frame 2; far rows are small.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1220.0,
+    500.0
+   ],
+   [
+    1302.5,
+    1024.0
+   ],
+   [
+    200.5,
+    970.5
+   ],
+   [
+    551.5,
+    479.0
+   ]
+  ],
+  "contrast": 0.478,
+  "lensFit": {
+   "h": [
+    -27.422934980425122,
+    -40.78266617061107,
+    1220.0960542903292,
+    7.201427085564681,
+    -0.5447562397489456,
+    499.62121061249246,
+    -0.02498999196154945,
+    0.0017388750647182808
+   ],
+   "posts": 68,
+   "before": 2.0856872054425684,
+   "hFit": 1.1256231944766215,
+   "k1Fit": 1.122916363517055,
+   "k1": 0.003524763533050868,
+   "bendCells": 0.008208184725024315,
+   "cornersImage": [
+    [
+     1220.1,
+     499.6
+    ],
+    [
+     1302.2,
+     1025.0
+    ],
+    [
+     203.5,
+     966.1
+    ],
+    [
+     552.0,
+     477.6
+    ]
+   ]
+  },
+  "k1": 0.0035,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2026-rcx-day2-1",
+  "mazeFiles": [
+   "classic/br2026-rcx-day2.txt"
+  ],
+  "competition": "Brazil RCX",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "owner-file",
+   "url": null,
+   "file": "sources/rcx-owner.mp4#t=4.5",
+   "timestamp": null,
+   "channel": "owner",
+   "uploadDate": null
+  },
+  "licence": "owner",
+  "corners": [
+   [
+    259.0,
+    52.5
+   ],
+   [
+    603.8,
+    57.2
+   ],
+   [
+    740.3,
+    429.0
+   ],
+   [
+    107.8,
+    417.2
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.371,
+  "nextBest": 0.106,
+  "nextBestFiles": [
+   "classic/uk2018q.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 27.6,
+  "gridSize": 16,
+  "notes": "848x478 source so only ~22-40 px/cell. Shadows of people over left side; frame 3 has a hand near the start.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    259.0,
+    52.5
+   ],
+   [
+    603.5,
+    57.0
+   ],
+   [
+    740.5,
+    429.0
+   ],
+   [
+    107.5,
+    417.5
+   ]
+  ],
+  "contrast": 0.359,
+  "lensFit": {
+   "h": [
+    21.22438353467961,
+    -12.481299035150698,
+    258.59797303126635,
+    0.2284449523113793,
+    10.959435344192796,
+    52.142311242481725,
+    -0.0005424655873176365,
+    -0.028364600690526508
+   ],
+   "posts": 118,
+   "before": 1.1376136062648308,
+   "hFit": 0.8536803472162574,
+   "k1Fit": 0.8542343796160973,
+   "k1": 0.0004455510508877309,
+   "bendCells": 0.0012813608765414304,
+   "cornersImage": [
+    [
+     258.6,
+     52.1
+    ],
+    [
+     603.4,
+     56.3
+    ],
+    [
+     741.5,
+     430.1
+    ],
+    [
+     107.8,
+     416.6
+    ]
+   ]
+  },
+  "k1": 0.0004,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2026-rcx-day2-2",
+  "mazeFiles": [
+   "classic/br2026-rcx-day2.txt"
+  ],
+  "competition": "Brazil RCX",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "owner-file",
+   "url": null,
+   "file": "sources/rcx-owner.mp4#t=5.5",
+   "timestamp": null,
+   "channel": "owner",
+   "uploadDate": null
+  },
+  "licence": "owner",
+  "corners": [
+   [
+    258.0,
+    56.5
+   ],
+   [
+    600.3,
+    61.4
+   ],
+   [
+    739.3,
+    432.4
+   ],
+   [
+    105.6,
+    420.7
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.37,
+  "nextBest": 0.103,
+  "nextBestFiles": [
+   "classic/taiwan2011p.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 27.7,
+  "gridSize": 16,
+  "notes": "848x478 source so only ~22-40 px/cell. Shadows of people over left side; frame 3 has a hand near the start.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    258.0,
+    55.5
+   ],
+   [
+    601.0,
+    60.5
+   ],
+   [
+    740.0,
+    434.0
+   ],
+   [
+    106.5,
+    420.0
+   ]
+  ],
+  "contrast": 0.356,
+  "lensFit": {
+   "h": [
+    21.229349113763753,
+    -12.541259054096283,
+    257.73331879528394,
+    0.2808797574398898,
+    10.752566280753543,
+    55.721413918827615,
+    -0.0003107038597484345,
+    -0.028622900265496916
+   ],
+   "posts": 116,
+   "before": 1.0801840317894968,
+   "hFit": 0.7444500971880819,
+   "k1Fit": 0.7412618297583581,
+   "k1": 0.0011258120565523244,
+   "bendCells": 0.003214271444845787,
+   "cornersImage": [
+    [
+     257.7,
+     55.7
+    ],
+    [
+     600.4,
+     60.5
+    ],
+    [
+     738.9,
+     432.6
+    ],
+    [
+     105.1,
+     420.3
+    ]
+   ]
+  },
+  "k1": 0.0011,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2026-rcx-day2-3",
+  "mazeFiles": [
+   "classic/br2026-rcx-day2.txt"
+  ],
+  "competition": "Brazil RCX",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "owner-file",
+   "url": null,
+   "file": "sources/rcx-owner.mp4#t=6.5",
+   "timestamp": null,
+   "channel": "owner",
+   "uploadDate": null
+  },
+  "licence": "owner",
+  "corners": [
+   [
+    256.5,
+    55.5
+   ],
+   [
+    598.8,
+    61.7
+   ],
+   [
+    735.2,
+    430.3
+   ],
+   [
+    102.7,
+    419.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.374,
+  "nextBest": 0.104,
+  "nextBestFiles": [
+   "classic/taiwan2011p.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 27.6,
+  "gridSize": 16,
+  "notes": "848x478 source so only ~22-40 px/cell. Shadows of people over left side; frame 3 has a hand near the start.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    256.5,
+    54.5
+   ],
+   [
+    598.5,
+    61.5
+   ],
+   [
+    734.0,
+    430.0
+   ],
+   [
+    102.0,
+    420.5
+   ]
+  ],
+  "contrast": 0.36,
+  "lensFit": {
+   "h": [
+    21.349302116041677,
+    -12.522528907166262,
+    256.3127682355922,
+    0.38982491131032243,
+    10.750859063088305,
+    54.73566497895766,
+    -9.113041572322042e-05,
+    -0.02861090818899821
+   ],
+   "posts": 116,
+   "before": 1.0884014176929124,
+   "hFit": 0.8017317296839764,
+   "k1Fit": 0.7969389254605899,
+   "k1": 0.004048092623350041,
+   "bendCells": 0.011527717423465741,
+   "cornersImage": [
+    [
+     256.1,
+     54.5
+    ],
+    [
+     599.0,
+     60.9
+    ],
+    [
+     735.9,
+     431.3
+    ],
+    [
+     102.4,
+     418.6
+    ]
+   ]
+  },
+  "k1": 0.004,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2026-rcx-day1-1",
+  "mazeFiles": [
+   "classic/br2026-rcx-day1.txt"
+  ],
+  "competition": "Brazil RCX",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "owner-file",
+   "url": null,
+   "file": "sources/rcx-2026-day1-owner.jpg",
+   "timestamp": null,
+   "channel": "owner",
+   "uploadDate": null
+  },
+  "licence": "owner",
+  "corners": [
+   [
+    106.5,
+    206.0
+   ],
+   [
+    977.5,
+    100.5
+   ],
+   [
+    1755.5,
+    522.5
+   ],
+   [
+    198.5,
+    1106.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.578,
+  "nextBest": 0.143,
+  "nextBestFiles": [
+   "classic/eastjapan-014-1996.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 67.7,
+  "gridSize": 16,
+  "notes": "one corner outside the frame (far right); 1600x1200 original, not re-encoded.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    106.5,
+    206.0
+   ],
+   [
+    977.5,
+    100.5
+   ],
+   [
+    1755.5,
+    522.5
+   ],
+   [
+    198.5,
+    1106.0
+   ]
+  ],
+  "contrast": 0.577,
+  "lensFit": {
+   "h": [
+    72.84710225682377,
+    -1.3660389224988265,
+    106.84455764695669,
+    -5.052576504735473,
+    15.390740804383848,
+    204.2778167157345,
+    0.018573987698858718,
+    -0.03676267468830103
+   ],
+   "posts": 83,
+   "before": 3.9715427278793265,
+   "hFit": 1.4807401106721696,
+   "k1Fit": 1.2003140757278277,
+   "k1": 0.0171869051425778,
+   "bendCells": 0.09853221265698169,
+   "cornersImage": [
+    [
+     99.3,
+     199.9
+    ],
+    [
+     981.8,
+     92.7
+    ],
+    [
+     1779.3,
+     520.2
+    ],
+    [
+     200.3,
+     1099.1
+    ]
+   ]
+  },
+  "k1": 0.0172,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2025-robochallenge-day2-1",
+  "mazeFiles": [
+   "classic/br2025-robochallenge-day2.txt"
+  ],
+  "competition": "Brazil RoboChallenge",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=A_WFLTaZ7R4&t=2s",
+   "timestamp": 2,
+   "channel": "Raijū Team",
+   "channelUrl": "https://www.youtube.com/channel/UCJGVVpYbUDsjrd14DW9y53w",
+   "uploadDate": "20251007",
+   "title": "Fujin - Micromouse Classic - RoboChallenge BR 2025 Final Day"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    562.5,
+    134.0
+   ],
+   [
+    1376.5,
+    152.0
+   ],
+   [
+    1915.0,
+    910.0
+   ],
+   [
+    31.5,
+    917.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.656,
+  "nextBest": 0.138,
+  "nextBestFiles": [
+   "classic/shi2.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 71.5,
+  "gridSize": 16,
+  "notes": "Robot near start in frame 1 (small), people at left edge outside maze. Lens slightly curved.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    562.5,
+    134.0
+   ],
+   [
+    1376.5,
+    152.0
+   ],
+   [
+    1915.0,
+    910.0
+   ],
+   [
+    31.5,
+    917.5
+   ]
+  ],
+  "contrast": 0.657,
+  "lensFit": {
+   "h": [
+    53.41747465387063,
+    -34.30216057390614,
+    561.9420341386841,
+    1.4554796528434573,
+    16.012198957810448,
+    132.4702279262598,
+    0.0018516415871015688,
+    -0.03598631230966938
+   ],
+   "posts": 117,
+   "before": 1.9033380062820027,
+   "hFit": 1.4024203658003531,
+   "k1Fit": 1.3895606721722744,
+   "k1": 0.0018317573740509574,
+   "bendCells": 0.0077267072271137525,
+   "cornersImage": [
+    [
+     561.7,
+     132.3
+    ],
+    [
+     1376.1,
+     151.1
+    ],
+    [
+     1913.6,
+     908.3
+    ],
+    [
+     29.5,
+     916.8
+    ]
+   ]
+  },
+  "k1": 0.0018,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2025-robochallenge-day2-2",
+  "mazeFiles": [
+   "classic/br2025-robochallenge-day2.txt"
+  ],
+  "competition": "Brazil RoboChallenge",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=A_WFLTaZ7R4&t=4s",
+   "timestamp": 4,
+   "channel": "Raijū Team",
+   "channelUrl": "https://www.youtube.com/channel/UCJGVVpYbUDsjrd14DW9y53w",
+   "uploadDate": "20251007",
+   "title": "Fujin - Micromouse Classic - RoboChallenge BR 2025 Final Day"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    556.0,
+    144.0
+   ],
+   [
+    1368.0,
+    154.0
+   ],
+   [
+    1912.5,
+    904.0
+   ],
+   [
+    34.6,
+    927.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.657,
+  "nextBest": 0.141,
+  "nextBestFiles": [
+   "classic/shi2.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 71.2,
+  "gridSize": 16,
+  "notes": "Robot near start in frame 1 (small), people at left edge outside maze. Lens slightly curved.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    556.0,
+    144.0
+   ],
+   [
+    1368.0,
+    154.0
+   ],
+   [
+    1912.5,
+    904.0
+   ],
+   [
+    35.0,
+    927.0
+   ]
+  ],
+  "contrast": 0.656,
+  "lensFit": {
+   "h": [
+    53.30892172637134,
+    -33.98426964834414,
+    556.1020550778788,
+    0.9865158437744797,
+    15.673988218793449,
+    142.30575099025387,
+    0.0019105073614154732,
+    -0.036066842538948436
+   ],
+   "posts": 115,
+   "before": 1.9408463324544498,
+   "hFit": 1.2644783379851634,
+   "k1Fit": 1.2497244781833938,
+   "k1": 0.003155796578251074,
+   "bendCells": 0.013259808550186825,
+   "cornersImage": [
+    [
+     555.8,
+     142.0
+    ],
+    [
+     1367.6,
+     153.1
+    ],
+    [
+     1910.6,
+     902.6
+    ],
+    [
+     26.7,
+     930.5
+    ]
+   ]
+  },
+  "k1": 0.0032,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "uk2025-spring-classic-1",
+  "mazeFiles": [
+   "classic/uk2025-spring-classic.txt"
+  ],
+  "competition": "UK",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=SQk96S-ChrM&t=961s",
+   "timestamp": 961,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20250419",
+   "title": "Spring UK Micromouse Contest April 2025 | Overhead Maze Run Showdown"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    372.3,
+    941.3
+   ],
+   [
+    571.0,
+    116.8
+   ],
+   [
+    1461.9,
+    93.4
+   ],
+   [
+    1842.0,
+    889.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.458,
+  "nextBest": 0.169,
+  "nextBestFiles": [
+   "classic/apec2018.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 63.9,
+  "gridSize": 16,
+  "notes": "Robots/people at table edges; small robot on the maze in frame 1 and 2.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    373.5,
+    940.5
+   ],
+   [
+    571.0,
+    116.0
+   ],
+   [
+    1461.5,
+    93.0
+   ],
+   [
+    1842.0,
+    889.0
+   ]
+  ],
+  "contrast": 0.45,
+  "lensFit": {
+   "h": [
+    36.16917153395518,
+    94.06372924039478,
+    374.4661222935268,
+    -46.47588690933576,
+    -2.0521972562651363,
+    940.7507966118554,
+    0.04139829725810973,
+    0.0016696937619037208
+   ],
+   "posts": 105,
+   "before": 3.9286625413276055,
+   "hFit": 3.8096337242169898,
+   "k1Fit": 3.5825608076821562,
+   "k1": 0.04462083337652732,
+   "bendCells": 0.1410176397100616,
+   "cornersImage": [
+    [
+     363.6,
+     948.2
+    ],
+    [
+     568.7,
+     113.5
+    ],
+    [
+     1463.4,
+     90.1
+    ],
+    [
+     1858.6,
+     895.4
+    ]
+   ]
+  },
+  "k1": 0.0446,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "uk2025-spring-classic-2",
+  "mazeFiles": [
+   "classic/uk2025-spring-classic.txt"
+  ],
+  "competition": "UK",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=SQk96S-ChrM&t=2161s",
+   "timestamp": 2161,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20250419",
+   "title": "Spring UK Micromouse Contest April 2025 | Overhead Maze Run Showdown"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    366.2,
+    944.5
+   ],
+   [
+    571.0,
+    120.0
+   ],
+   [
+    1458.0,
+    95.8
+   ],
+   [
+    1847.1,
+    890.9
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.469,
+  "nextBest": 0.176,
+  "nextBestFiles": [
+   "classic/apec2018.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 64.1,
+  "gridSize": 16,
+  "notes": "Robots/people at table edges; small robot on the maze in frame 1 and 2.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    367.0,
+    944.5
+   ],
+   [
+    571.0,
+    120.0
+   ],
+   [
+    1458.0,
+    95.0
+   ],
+   [
+    1847.5,
+    890.5
+   ]
+  ],
+  "contrast": 0.458,
+  "lensFit": {
+   "h": [
+    35.9661493245492,
+    94.39545181279456,
+    372.7983540676041,
+    -46.462664118755676,
+    -2.068366454477361,
+    943.4152720103136,
+    0.041321120886390776,
+    0.0019017899607794205
+   ],
+   "posts": 108,
+   "before": 3.9248646296742526,
+   "hFit": 3.907310531766839,
+   "k1Fit": 3.521491025164078,
+   "k1": 0.04109938564931058,
+   "bendCells": 0.12887632899426535,
+   "cornersImage": [
+    [
+     362.7,
+     950.4
+    ],
+    [
+     566.5,
+     115.8
+    ],
+    [
+     1460.8,
+     92.1
+    ],
+    [
+     1853.1,
+     893.6
+    ]
+   ]
+  },
+  "k1": 0.0411,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "uk2025-spring-classic-3",
+  "mazeFiles": [
+   "classic/uk2025-spring-classic.txt"
+  ],
+  "competition": "UK",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=SQk96S-ChrM&t=3661s",
+   "timestamp": 3661,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20250419",
+   "title": "Spring UK Micromouse Contest April 2025 | Overhead Maze Run Showdown"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    368.2,
+    944.6
+   ],
+   [
+    574.0,
+    119.7
+   ],
+   [
+    1460.9,
+    96.3
+   ],
+   [
+    1849.5,
+    891.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.466,
+  "nextBest": 0.175,
+  "nextBestFiles": [
+   "classic/apec2018.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 64.2,
+  "gridSize": 16,
+  "notes": "Robots/people at table edges; small robot on the maze in frame 1 and 2.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    369.0,
+    943.0
+   ],
+   [
+    574.0,
+    118.5
+   ],
+   [
+    1462.5,
+    95.5
+   ],
+   [
+    1849.5,
+    893.0
+   ]
+  ],
+  "contrast": 0.457,
+  "lensFit": {
+   "h": [
+    36.14947282373715,
+    93.91669097552202,
+    376.10222676035227,
+    -46.262261804647906,
+    -2.04306033500548,
+    941.228729088232,
+    0.0412602487253735,
+    0.0016742910474717228
+   ],
+   "posts": 104,
+   "before": 3.723661938421233,
+   "hFit": 3.708286325163874,
+   "k1Fit": 3.3926975742835124,
+   "k1": 0.04979645540319498,
+   "bendCells": 0.1554024258082698,
+   "cornersImage": [
+    [
+     364.1,
+     949.5
+    ],
+    [
+     569.8,
+     115.5
+    ],
+    [
+     1465.5,
+     91.8
+    ],
+    [
+     1861.0,
+     897.2
+    ]
+   ]
+  },
+  "k1": 0.0498,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "uk2026-spring-classic-1",
+  "mazeFiles": [
+   "classic/uk2026-spring-classic.txt"
+  ],
+  "competition": "UK",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=nat90xEqVzA&t=341s",
+   "timestamp": 341,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20260610",
+   "title": "UKMARS Micromouse  UK final 2026: Record Turnout at Stratford-upon-Avon. repost"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1472.6,
+    1045.9
+   ],
+   [
+    489.0,
+    1040.5
+   ],
+   [
+    532.2,
+    113.4
+   ],
+   [
+    1419.5,
+    105.9
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.55,
+  "nextBest": 0.177,
+  "nextBestFiles": [
+   "classic/uk2024-megacon-e.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 58.5,
+  "gridSize": 16,
+  "notes": "\"Half Speed\" overlay bottom-right; ghosted replay-blend background left and right, maze itself clean; robot at right edge.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1473.0,
+    1045.5
+   ],
+   [
+    489.0,
+    1040.5
+   ],
+   [
+    531.5,
+    113.0
+   ],
+   [
+    1419.5,
+    105.5
+   ]
+  ],
+  "contrast": 0.54,
+  "lensFit": {
+   "h": [
+    -61.61302483287021,
+    7.08194529315634,
+    1476.4215369215858,
+    0.6359474755318197,
+    -58.24983308137907,
+    1049.6375946131252,
+    0.0008773839518792329,
+    0.00756403115611722
+   ],
+   "posts": 94,
+   "before": 2.1402932004575876,
+   "hFit": 1.550015032814644,
+   "k1Fit": 1.5776682632731784,
+   "k1": -0.009398415686228295,
+   "bendCells": 0.018492371803350224,
+   "cornersImage": [
+    [
+     1474.3,
+     1047.6
+    ],
+    [
+     485.6,
+     1043.3
+    ],
+    [
+     533.3,
+     113.8
+    ],
+    [
+     1416.7,
+     106.3
+    ]
+   ]
+  },
+  "k1": -0.0094,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "uk2026-spring-classic-2",
+  "mazeFiles": [
+   "classic/uk2026-spring-classic.txt"
+  ],
+  "competition": "UK",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=nat90xEqVzA&t=101s",
+   "timestamp": 101,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20260610",
+   "title": "UKMARS Micromouse  UK final 2026: Record Turnout at Stratford-upon-Avon. repost"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1439.8,
+    424.3
+   ],
+   [
+    1777.5,
+    964.9
+   ],
+   [
+    549.0,
+    950.8
+   ],
+   [
+    730.1,
+    424.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.298,
+  "nextBest": 0.11,
+  "nextBestFiles": [
+   "classic/hk91f.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 49.0,
+  "gridSize": 16,
+  "notes": "Low angle, people standing at the far side, name overlay at corners, small robot on maze.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1438.0,
+    425.5
+   ],
+   [
+    1779.0,
+    965.5
+   ],
+   [
+    547.5,
+    950.5
+   ],
+   [
+    731.0,
+    424.0
+   ]
+  ],
+  "contrast": 0.294,
+  "lensFit": {
+   "h": [
+    -25.585181724747972,
+    -43.849768243016925,
+    1441.4633258459814,
+    8.6636169214482,
+    0.31153251377449614,
+    422.90880162765615,
+    -0.026093970098027167,
+    0.0009837789100447742
+   ],
+   "posts": 90,
+   "before": 4.768020019484251,
+   "hFit": 4.515821546544521,
+   "k1Fit": 4.515740965773787,
+   "k1": -0.0007244043980359523,
+   "bendCells": 0.0017952272286598683,
+   "cornersImage": [
+    [
+     1441.4,
+     422.9
+    ],
+    [
+     1771.5,
+     963.8
+    ],
+    [
+     552.5,
+     946.9
+    ],
+    [
+     728.4,
+     421.3
+    ]
+   ]
+  },
+  "k1": -0.0007,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "alljapan-044-2023-exp-fin-1",
+  "mazeFiles": [
+   "classic/alljapan-044-2023-exp-fin.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2023,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=e3XlsnLXXBg&t=2280s",
+   "timestamp": 2280,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20240218",
+   "title": "クラシックマウスA 第44回 全日本マイクロマウス大会 Micromouse 2023 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    620.0,
+    67.0
+   ],
+   [
+    1235.0,
+    188.0
+   ],
+   [
+    804.3,
+    684.0
+   ],
+   [
+    70.5,
+    294.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.373,
+  "nextBest": 0.146,
+  "nextBestFiles": [
+   "classic/iee88.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 42.3,
+  "gridSize": 16,
+  "notes": "Classic A, fixed camera; 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    620.0,
+    67.0
+   ],
+   [
+    1235.0,
+    188.0
+   ],
+   [
+    804.0,
+    684.0
+   ],
+   [
+    71.0,
+    294.0
+   ]
+  ],
+  "contrast": 0.373,
+  "lensFit": {
+   "h": [
+    16.416207633887502,
+    -35.42372196057344,
+    618.3188897701266,
+    4.213141897409454,
+    8.578429094879924,
+    63.23819587400543,
+    -0.018227712871432322,
+    -0.01976375567583966
+   ],
+   "posts": 72,
+   "before": 4.1990474590581295,
+   "hFit": 3.597930797160212,
+   "k1Fit": 3.614486678589477,
+   "k1": -0.020969885855884277,
+   "bendCells": 0.0957423356894657,
+   "cornersImage": [
+    [
+     618.4,
+     64.3
+    ],
+    [
+     1234.4,
+     187.1
+    ],
+    [
+     800.4,
+     681.5
+    ],
+    [
+     82.5,
+     294.1
+    ]
+   ]
+  },
+  "k1": -0.021,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "alljapan-044-2023-exp-fin-2",
+  "mazeFiles": [
+   "classic/alljapan-044-2023-exp-fin.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2023,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=e3XlsnLXXBg&t=12360s",
+   "timestamp": 12360,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20240218",
+   "title": "クラシックマウスA 第44回 全日本マイクロマウス大会 Micromouse 2023 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    618.0,
+    67.0
+   ],
+   [
+    1235.5,
+    186.5
+   ],
+   [
+    809.5,
+    682.3
+   ],
+   [
+    71.0,
+    296.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.382,
+  "nextBest": 0.149,
+  "nextBestFiles": [
+   "classic/iee88.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 42.3,
+  "gridSize": 16,
+  "notes": "Classic A, fixed camera; 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    618.0,
+    67.0
+   ],
+   [
+    1235.5,
+    186.5
+   ],
+   [
+    809.5,
+    682.0
+   ],
+   [
+    71.0,
+    296.0
+   ]
+  ],
+  "contrast": 0.383,
+  "lensFit": {
+   "h": [
+    16.58614472543746,
+    -35.40340850327988,
+    617.8673382873858,
+    4.202816835722103,
+    8.692678813227129,
+    63.12082556463249,
+    -0.01825801411420133,
+    -0.01951558238872633
+   ],
+   "posts": 72,
+   "before": 3.943330427743872,
+   "hFit": 3.125794967883754,
+   "k1Fit": 3.126395269724173,
+   "k1": -0.02270539446466167,
+   "bendCells": 0.1045506037342714,
+   "cornersImage": [
+    [
+     617.9,
+     64.2
+    ],
+    [
+     1237.5,
+     187.1
+    ],
+    [
+     799.9,
+     679.3
+    ],
+    [
+     82.5,
+     294.9
+    ]
+   ]
+  },
+  "k1": -0.0227,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2024hef-1",
+  "mazeFiles": [
+   "halfsize/japan2024hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2024,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=m9ZjDC55k3A&t=13800s",
+   "timestamp": 13800,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20250223",
+   "title": "マイクロマウスファイナル 第45回 全日本マイクロマウス大会 Micromouse 2024 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    626.4,
+    148.4
+   ],
+   [
+    1194.2,
+    299.8
+   ],
+   [
+    755.1,
+    713.4
+   ],
+   [
+    85.0,
+    311.7
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.254,
+  "nextBest": 0.041,
+  "nextBestFiles": [
+   "halfsize/japan2009hef.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 19.8,
+  "gridSize": 32,
+  "notes": "Half-size final, fixed camera; the result screen overlay covers part of the top-right; 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+  },
+  "cornersPrev": [
+   [
+    626.2,
+    148.8
+   ],
+   [
+    1194.4,
+    299.6
+   ],
+   [
+    755.6,
+    714.0
+   ],
+   [
+    85.2,
+    312.1
+   ]
+  ],
+  "contrast": 0.255,
+  "lensFit": {
+   "h": [
+    7.485569792680782,
+    -18.056141444063492,
+    625.6850233530315,
+    2.100144838804086,
+    1.806895940335251,
+    147.33691518638824,
+    -0.008789986815279342,
+    -0.010609312020781525
+   ],
+   "posts": 203,
+   "before": 2.0165243927049854,
+   "hFit": 1.4554060307352763,
+   "k1Fit": 0.7659878938703523,
+   "k1": -0.08315949021379859,
+   "bendCells": 0.7255180179147004,
+   "cornersImage": [
+    [
+     625.8,
+     148.8
+    ],
+    [
+     1175.9,
+     301.6
+    ],
+    [
+     755.4,
+     710.4
+    ],
+    [
+     100.9,
+     313.1
+    ]
+   ]
+  },
+  "k1": -0.0832,
+  "distortion": "mild",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "other-world85fin-1985-1",
+  "mazeFiles": [
+   "classic/other-world85fin-1985.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2022,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=CSFtBQo8bRw&t=1800s",
+   "timestamp": 1800,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20230219",
+   "title": "クラシックマウスA 第43回 全日本マイクロマウス大会 Micromouse 2021 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    633.0,
+    81.8
+   ],
+   [
+    1157.0,
+    271.0
+   ],
+   [
+    587.0,
+    704.5
+   ],
+   [
+    77.5,
+    221.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.441,
+  "nextBest": 0.213,
+  "nextBestFiles": [
+   "classic/long.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 39.8,
+  "gridSize": 16,
+  "notes": "43rd All Japan (held 2023-02), Classic A. Fixed camera, 720p; scoreboard overlay covers bottom-right. Matched a maze file other than the expected one for this contest and year (a reused maze). 43rd All Japan (held 2023-02), Classic A. Matched a maze file other than the one expected for this contest and year: the maze is the reused 1985 World Micromouse final.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    633.0,
+    82.0
+   ],
+   [
+    1157.0,
+    271.0
+   ],
+   [
+    587.0,
+    704.0
+   ],
+   [
+    77.0,
+    221.5
+   ]
+  ],
+  "contrast": 0.441,
+  "lensFit": {
+   "h": [
+    10.289899659667475,
+    -36.529520596297516,
+    632.8352155316863,
+    6.679804526182617,
+    4.323820887614894,
+    79.06231260090092,
+    -0.01936988768441094,
+    -0.020422510528497344
+   ],
+   "posts": 54,
+   "before": 2.937000926146199,
+   "hFit": 2.271739807173036,
+   "k1Fit": 2.392773520393289,
+   "k1": -0.007474090489287017,
+   "bendCells": 0.028269441054818607,
+   "cornersImage": [
+    [
+     632.8,
+     79.4
+    ],
+    [
+     1153.7,
+     269.8
+    ],
+    [
+     586.4,
+     701.6
+    ],
+    [
+     74.5,
+     220.9
+    ]
+   ]
+  },
+  "k1": -0.0075,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "other-world85fin-1985-2",
+  "mazeFiles": [
+   "classic/other-world85fin-1985.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2022,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=CSFtBQo8bRw&t=6000s",
+   "timestamp": 6000,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20230219",
+   "title": "クラシックマウスA 第43回 全日本マイクロマウス大会 Micromouse 2021 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    633.2,
+    82.0
+   ],
+   [
+    1157.5,
+    271.0
+   ],
+   [
+    588.0,
+    703.5
+   ],
+   [
+    76.2,
+    221.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.436,
+  "nextBest": 0.212,
+  "nextBestFiles": [
+   "classic/long.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 39.9,
+  "gridSize": 16,
+  "notes": "43rd All Japan (held 2023-02), Classic A. Fixed camera, 720p; scoreboard overlay covers bottom-right. Matched a maze file other than the expected one for this contest and year (a reused maze). 43rd All Japan (held 2023-02), Classic A. Matched a maze file other than the one expected for this contest and year: the maze is the reused 1985 World Micromouse final.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    633.0,
+    82.0
+   ],
+   [
+    1157.0,
+    271.0
+   ],
+   [
+    586.5,
+    704.5
+   ],
+   [
+    76.0,
+    221.5
+   ]
+  ],
+  "contrast": 0.437,
+  "lensFit": {
+   "h": [
+    10.440625502343343,
+    -36.2548622688783,
+    632.0162483105996,
+    6.766097134156795,
+    4.592973237629767,
+    77.29999351028432,
+    -0.01957274669138824,
+    -0.019622458484115122
+   ],
+   "posts": 57,
+   "before": 3.141050387542094,
+   "hFit": 2.4780421312634155,
+   "k1Fit": 2.411068636795434,
+   "k1": -0.02049206792112112,
+   "bendCells": 0.0774655311880904,
+   "cornersImage": [
+    [
+     632.0,
+     78.2
+    ],
+    [
+     1157.8,
+     271.1
+    ],
+    [
+     587.5,
+     693.3
+    ],
+    [
+     83.0,
+     221.6
+    ]
+   ]
+  },
+  "k1": -0.0205,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "other-world85fin-1985-3",
+  "mazeFiles": [
+   "classic/other-world85fin-1985.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2022,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=CSFtBQo8bRw&t=6000s",
+   "timestamp": 6000,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20230219",
+   "title": "クラシックマウスA 第43回 全日本マイクロマウス大会 Micromouse 2021 ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    633.2,
+    82.0
+   ],
+   [
+    1157.5,
+    271.0
+   ],
+   [
+    588.0,
+    703.5
+   ],
+   [
+    76.2,
+    221.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.436,
+  "nextBest": 0.212,
+  "nextBestFiles": [
+   "classic/long.txt"
+  ],
+  "bestGuess": null,
+  "view": "oblique",
+  "pxPerCell": 39.9,
+  "gridSize": 16,
+  "notes": "43rd All Japan (held 2023-02), Classic A. Fixed camera, 720p; scoreboard overlay covers bottom-right. Matched a maze file other than the expected one for this contest and year (a reused maze). 43rd All Japan (held 2023-02), Classic A. Matched a maze file other than the one expected for this contest and year: the maze is the reused 1985 World Micromouse final.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    633.0,
+    82.0
+   ],
+   [
+    1157.0,
+    271.0
+   ],
+   [
+    586.5,
+    704.5
+   ],
+   [
+    76.0,
+    221.5
+   ]
+  ],
+  "contrast": 0.437,
+  "lensFit": {
+   "h": [
+    10.440625502343343,
+    -36.2548622688783,
+    632.0162483105996,
+    6.766097134156795,
+    4.592973237629767,
+    77.29999351028432,
+    -0.01957274669138824,
+    -0.019622458484115122
+   ],
+   "posts": 57,
+   "before": 3.141050387542094,
+   "hFit": 2.4780421312634155,
+   "k1Fit": 2.411068636795434,
+   "k1": -0.02049206792112112,
+   "bendCells": 0.0774655311880904,
+   "cornersImage": [
+    [
+     632.0,
+     78.2
+    ],
+    [
+     1157.8,
+     271.1
+    ],
+    [
+     587.5,
+     693.3
+    ],
+    [
+     83.0,
+     221.6
+    ]
+   ]
+  },
+  "k1": -0.0205,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2019-1",
+  "mazeFiles": [
+   "classic/japan2019.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2019,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=c5ZnanJlJCQ&t=3240s",
+   "timestamp": 3240,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20191201",
+   "title": "第40回全日本マイクロマウス大会 Micromouse2019 クラシックマウスA ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    332.3,
+    115.1
+   ],
+   [
+    930.5,
+    63.2
+   ],
+   [
+    1215.6,
+    534.5
+   ],
+   [
+    137.1,
+    618.1
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.366,
+  "nextBest": 0.102,
+  "nextBestFiles": [
+   "classic/taiwan2023cef.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [
+   {
+    "files": [
+     "classic/japan2003.txt"
+    ],
+    "wallsDiffering": 2
+   }
+  ],
+  "view": "oblique",
+  "pxPerCell": 43.3,
+  "gridSize": 16,
+  "notes": "40th All Japan, Classic A; fixed camera, 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    332.0,
+    114.0
+   ],
+   [
+    930.5,
+    64.0
+   ],
+   [
+    1214.5,
+    535.0
+   ],
+   [
+    135.5,
+    617.0
+   ]
+  ],
+  "contrast": 0.344,
+  "lensFit": {
+   "h": [
+    36.857883573566966,
+    -16.04394735767827,
+    331.60297904940336,
+    -3.2807517723923425,
+    14.441126477181061,
+    114.0468145426592,
+    -0.0005567212622709991,
+    -0.02776772751816648
+   ],
+   "posts": 101,
+   "before": 2.4745890616671637,
+   "hFit": 2.4061087223729793,
+   "k1Fit": 2.390285473760043,
+   "k1": -0.012057903315977971,
+   "bendCells": 0.03867624220648361,
+   "cornersImage": [
+    [
+     332.7,
+     114.9
+    ],
+    [
+     928.5,
+     63.3
+    ],
+    [
+     1210.8,
+     533.7
+    ],
+    [
+     138.4,
+     619.1
+    ]
+   ]
+  },
+  "k1": -0.0121,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2019-2",
+  "mazeFiles": [
+   "classic/japan2019.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2019,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=c5ZnanJlJCQ&t=10260s",
+   "timestamp": 10260,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20191201",
+   "title": "第40回全日本マイクロマウス大会 Micromouse2019 クラシックマウスA ClassicMouse A"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    359.7,
+    107.5
+   ],
+   [
+    960.3,
+    60.0
+   ],
+   [
+    1240.5,
+    538.3
+   ],
+   [
+    161.4,
+    610.1
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.365,
+  "nextBest": 0.102,
+  "nextBestFiles": [
+   "classic/taiwan2023cef.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [
+   {
+    "files": [
+     "classic/japan2003.txt"
+    ],
+    "wallsDiffering": 2
+   }
+  ],
+  "view": "oblique",
+  "pxPerCell": 43.5,
+  "gridSize": 16,
+  "notes": "40th All Japan, Classic A; fixed camera, 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    360.5,
+    107.5
+   ],
+   [
+    959.5,
+    60.0
+   ],
+   [
+    1240.5,
+    537.5
+   ],
+   [
+    156.5,
+    612.5
+   ]
+  ],
+  "contrast": 0.348,
+  "lensFit": {
+   "h": [
+    36.18753831671744,
+    -16.882268152367192,
+    360.1863966807954,
+    -3.0281927446582593,
+    14.580735756641948,
+    106.5168207651383,
+    -0.0014252495239622015,
+    -0.027524329039366458
+   ],
+   "posts": 100,
+   "before": 2.531027225736256,
+   "hFit": 2.263230070224915,
+   "k1Fit": 2.233676105321708,
+   "k1": -0.010804482398633528,
+   "bendCells": 0.03597735322409265,
+   "cornersImage": [
+    [
+     361.0,
+     107.2
+    ],
+    [
+     959.9,
+     60.6
+    ],
+    [
+     1241.5,
+     541.3
+    ],
+    [
+     163.7,
+     605.8
+    ]
+   ]
+  },
+  "k1": -0.0108,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2019-3",
+  "mazeFiles": [
+   "classic/japan2019.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2021,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=SiC94Huredc&t=3000s",
+   "timestamp": 3000,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20220312",
+   "title": "クラシックマウスA 午前 第42回 全日本マイクロマウス大会 Micromouse 2021 ClassicMouse A (Morning)"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1248.9,
+    243.1
+   ],
+   [
+    741.1,
+    740.7
+   ],
+   [
+    251.9,
+    239.8
+   ],
+   [
+    726.7,
+    -4.9
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.321,
+  "nextBest": 0.105,
+  "nextBestFiles": [
+   "classic/portugal-2017-final-expert.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [
+   {
+    "files": [
+     "classic/japan2003.txt"
+    ],
+    "wallsDiffering": 2
+   }
+  ],
+  "view": "oblique",
+  "pxPerCell": 39.4,
+  "gridSize": 16,
+  "notes": "42nd All Japan (held 2022-03), Classic A morning; fixed camera, 720p; bottom/top corners at frame edge. Same maze as the 40th (2019).",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1248.9,
+    243.1
+   ],
+   [
+    742.6,
+    737.5
+   ],
+   [
+    251.7,
+    239.6
+   ],
+   [
+    726.7,
+    -4.7
+   ]
+  ],
+  "contrast": 0.317,
+  "lensFit": {
+   "h": [
+    -46.0563552595788,
+    -15.091571440694798,
+    1248.1528295318021,
+    16.630308446620607,
+    -15.75489626265697,
+    242.95227037988607,
+    -0.01935244037847551,
+    0.024066328195953484
+   ],
+   "posts": 94,
+   "before": 1.4403550593514056,
+   "hFit": 1.1644124774776772,
+   "k1Fit": 1.1577467335132154,
+   "k1": -0.005750363024975626,
+   "bendCells": 0.018199004900117992,
+   "cornersImage": [
+    [
+     1245.7,
+     243.4
+    ],
+    [
+     740.4,
+     736.7
+    ],
+    [
+     251.6,
+     239.2
+    ],
+    [
+     726.7,
+     -6.0
+    ]
+   ]
+  },
+  "k1": -0.0058,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2021hef-1",
+  "mazeFiles": [
+   "halfsize/japan2021hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2021,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=1yv3xGaN2JA&t=1080s",
+   "timestamp": 1080,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20220312",
+   "title": "マイクロマウスファイナル 第42回 全日本マイクロマウス大会 Micromouse 2021 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    996.8,
+    32.9
+   ],
+   [
+    1916.5,
+    314.7
+   ],
+   [
+    1143.3,
+    1102.2
+   ],
+   [
+    85.2,
+    290.1
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.363,
+  "nextBest": 0.068,
+  "nextBestFiles": [
+   "halfsize/japan2019hef.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 34.0,
+  "gridSize": 32,
+  "notes": "42nd All Japan (held 2022-03), half-size final; fixed camera 1080p; bottom corner near the frame edge.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda na quina do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+  },
+  "cornersPrev": [
+   [
+    996.8,
+    32.7
+   ],
+   [
+    1916.5,
+    314.7
+   ],
+   [
+    1143.7,
+    1102.8
+   ],
+   [
+    85.2,
+    289.7
+   ]
+  ],
+  "contrast": 0.358,
+  "lensFit": {
+   "h": [
+    10.703247597111867,
+    -29.471482850251714,
+    994.960407384509,
+    5.909350061621534,
+    5.269873980291611,
+    21.411169946191748,
+    -0.009827740636852036,
+    -0.010652406700396242
+   ],
+   "posts": 149,
+   "before": 4.185649737778791,
+   "hFit": 3.8021720215732353,
+   "k1Fit": 1.2228563676664637,
+   "k1": -0.06123519561975282,
+   "bendCells": 0.6397527840477168,
+   "cornersImage": [
+    [
+     994.5,
+     28.5
+    ],
+    [
+     1899.2,
+     319.3
+    ],
+    [
+     1141.1,
+     1090.3
+    ],
+    [
+     116.1,
+     299.0
+    ]
+   ]
+  },
+  "k1": -0.0612,
+  "distortion": "mild",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2021hef-2",
+  "mazeFiles": [
+   "halfsize/japan2021hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2021,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=1yv3xGaN2JA&t=3960s",
+   "timestamp": 3960,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20220312",
+   "title": "マイクロマウスファイナル 第42回 全日本マイクロマウス大会 Micromouse 2021 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1001.4,
+    13.5
+   ],
+   [
+    1920.1,
+    289.5
+   ],
+   [
+    1160.4,
+    1060.0
+   ],
+   [
+    99.9,
+    271.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.361,
+  "nextBest": 0.069,
+  "nextBestFiles": [
+   "halfsize/japan2019hef.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 33.6,
+  "gridSize": 32,
+  "notes": "42nd All Japan (held 2022-03), half-size final; fixed camera 1080p; bottom corner near the frame edge.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda na quina do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+  },
+  "cornersPrev": [
+   [
+    1001.8,
+    13.5
+   ],
+   [
+    1920.5,
+    289.1
+   ],
+   [
+    1160.4,
+    1060.0
+   ],
+   [
+    99.1,
+    271.5
+   ]
+  ],
+  "contrast": 0.357,
+  "lensFit": {
+   "h": [
+    10.616588480136834,
+    -29.24985927907375,
+    999.7218615381646,
+    5.887185692516203,
+    5.476331034430871,
+    4.108242138377754,
+    -0.009833656433206219,
+    -0.010559736263693333
+   ],
+   "posts": 166,
+   "before": 4.26813797899507,
+   "hFit": 3.857365965593926,
+   "k1Fit": 1.7382060784776083,
+   "k1": -0.05675553088310162,
+   "bendCells": 0.5932407498126931,
+   "cornersImage": [
+    [
+     999.2,
+     11.3
+    ],
+    [
+     1905.3,
+     293.7
+    ],
+    [
+     1158.4,
+     1051.0
+    ],
+    [
+     129.3,
+     281.2
+    ]
+   ]
+  },
+  "k1": -0.0568,
+  "distortion": "mild",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2018-1",
+  "mazeFiles": [
+   "classic/apec2002-2002.txt",
+   "classic/japan2018.txt",
+   "classic/uknov2011f.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=lZVe0jTjULI&t=960s",
+   "timestamp": 960,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20181202",
+   "title": "マイクロマウス2018 クラシックマウスＡ（午後）　Micromouse2018 Classicmouse A（p.m.）"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    300.5,
+    27.5
+   ],
+   [
+    573.1,
+    96.5
+   ],
+   [
+    473.5,
+    342.5
+   ],
+   [
+    94.3,
+    164.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.293,
+  "nextBest": 0.287,
+  "nextBestFiles": [
+   "classic/uknov2011q.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 19.0,
+  "gridSize": 16,
+  "notes": "39th All Japan, Classic A afternoon; 360p source; low resolution limits the matching margin.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    301.0,
+    28.0
+   ],
+   [
+    573.5,
+    96.0
+   ],
+   [
+    473.5,
+    343.0
+   ],
+   [
+    94.5,
+    164.5
+   ]
+  ],
+  "contrast": 0.288,
+  "lensFit": {
+   "h": [
+    9.930505442897474,
+    -14.811333583386732,
+    299.483736931673,
+    3.1376610422272475,
+    5.154744996974245,
+    26.72583500422037,
+    -0.012435992898622713,
+    -0.020844389606098922
+   ],
+   "posts": 47,
+   "before": 0.8924103349477963,
+   "hFit": 0.42024334698570254,
+   "k1Fit": 0.42237091752811357,
+   "k1": 0.0026471520440395488,
+   "bendCells": 0.007738194075094084,
+   "cornersImage": [
+    [
+     299.5,
+     26.7
+    ],
+    [
+     572.6,
+     95.9
+    ],
+    [
+     473.7,
+     341.1
+    ],
+    [
+     93.5,
+     163.8
+    ]
+   ]
+  },
+  "k1": 0.0026,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2018-2",
+  "mazeFiles": [
+   "classic/apec2002-2002.txt",
+   "classic/japan2018.txt",
+   "classic/uknov2011f.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=lZVe0jTjULI&t=7260s",
+   "timestamp": 7260,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20181202",
+   "title": "マイクロマウス2018 クラシックマウスＡ（午後）　Micromouse2018 Classicmouse A（p.m.）"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    300.8,
+    27.3
+   ],
+   [
+    573.8,
+    96.2
+   ],
+   [
+    474.4,
+    342.3
+   ],
+   [
+    94.3,
+    163.9
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.292,
+  "nextBest": 0.285,
+  "nextBestFiles": [
+   "classic/uknov2011q.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 19.0,
+  "gridSize": 16,
+  "notes": "39th All Japan, Classic A afternoon; 360p source; low resolution limits the matching margin.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    301.0,
+    27.5
+   ],
+   [
+    574.0,
+    96.0
+   ],
+   [
+    474.5,
+    342.5
+   ],
+   [
+    95.5,
+    163.5
+   ]
+  ],
+  "contrast": 0.285,
+  "lensFit": {
+   "h": [
+    9.921080457420553,
+    -14.856977489878362,
+    300.0703592368962,
+    3.1275133925745355,
+    5.149985660610488,
+    26.548578810557128,
+    -0.01247796560851453,
+    -0.020867883589562746
+   ],
+   "posts": 47,
+   "before": 0.8194557031634451,
+   "hFit": 0.39630071402695505,
+   "k1Fit": 0.39512816593795624,
+   "k1": 0.0007954930504209025,
+   "bendCells": 0.0023427332882990076,
+   "cornersImage": [
+    [
+     300.1,
+     26.5
+    ],
+    [
+     573.4,
+     95.7
+    ],
+    [
+     474.0,
+     340.9
+    ],
+    [
+     93.5,
+     163.6
+    ]
+   ]
+  },
+  "k1": 0.0008,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "all-japan-2019-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2019,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=KmCbzioto-0&t=6240s",
+   "timestamp": 6240,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20191201",
+   "title": "第40回全日本マイクロマウス大会 Micromouse2019 マイクロマウスセミファイナル Micromouse Semifinal"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    278,
+    22.5
+   ],
+   [
+    955,
+    53
+   ],
+   [
+    1073,
+    607
+   ],
+   [
+    166,
+    580
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, by eye on zoomed crops)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.128,
+  "nextBest": 0.127,
+  "nextBestFiles": [
+   "classic/us86x.txt"
+  ],
+  "bestGuess": [
+   "classic/86.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 45.0,
+  "gridSize": 16,
+  "notes": "40th All Japan, micromouse semifinal; 16x16; no matching maze file in the repo, so it needs transcribing; corners fitted on the outer wall only, near-overhead view. 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais esquerda, cima e baixo estao ok, mas a lateral direita está bem errado (muito pra direita)"
+  },
+  "k1": null,
+  "distortion": "none",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "cornersPrev": [
+   [
+    279.0,
+    22.5
+   ],
+   [
+    1073.0,
+    57.5
+   ],
+   [
+    1123.0,
+    610.0
+   ],
+   [
+    164.0,
+    580.0
+   ]
+  ],
+  "cornersFixed": true,
+  "proposal": {
+   "walls": 202,
+   "unsure": 278,
+   "file": "proposals/all-japan-2019-classic-unknown-1.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "all-japan-2019-classic-unknown-2",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2019,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=KmCbzioto-0&t=7320s",
+   "timestamp": 7320,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20191201",
+   "title": "第40回全日本マイクロマウス大会 Micromouse2019 マイクロマウスセミファイナル Micromouse Semifinal"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    278.5,
+    26.5
+   ],
+   [
+    954,
+    55
+   ],
+   [
+    1072,
+    610
+   ],
+   [
+    164,
+    582
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, by eye on zoomed crops)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.139,
+  "nextBest": 0.138,
+  "nextBestFiles": [
+   "classic/japan1988.txt"
+  ],
+  "bestGuess": [
+   "classic/alljapan-003-1982.txt",
+   "classic/us82.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 44.8,
+  "gridSize": 16,
+  "notes": "40th All Japan, micromouse semifinal; 16x16; no matching maze file in the repo, so it needs transcribing; corners fitted on the outer wall only, near-overhead view. 720p.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "no canto inferiror direito tem umas paredes retiradas e sobre o tabuleiro, entao nao acho que seja uma boa imagem. as laterais esquerda, cima e baixo estao ok, mas a lateral direita está bem errado (muito pra direita)"
+  },
+  "exclude": "walls removed lying on the board",
+  "k1": null,
+  "distortion": "none",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "cornersPrev": [
+   [
+    278.5,
+    26.5
+   ],
+   [
+    1062.5,
+    61.0
+   ],
+   [
+    1125.0,
+    611.5
+   ],
+   [
+    164.0,
+    582.0
+   ]
+  ],
+  "cornersFixed": true
+ },
+ {
+  "id": "japan2016-ef-1",
+  "mazeFiles": [
+   "classic/japan2016-ef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2016,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=XPqlBQ-gS8A&t=8520s",
+   "timestamp": 8520,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20161120",
+   "title": "マイクロマウス2016 決勝 クラシックエキスパート / Micromouse 2016 Classic Expert Class Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    541.8,
+    314.2
+   ],
+   [
+    112.5,
+    303.0
+   ],
+   [
+    168.4,
+    13.3
+   ],
+   [
+    491.2,
+    15.6
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.227,
+  "nextBest": 0.13,
+  "nextBestFiles": [
+   "classic/loop.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 21.1,
+  "gridSize": 16,
+  "notes": "37th All Japan, Classic Expert final; 360p source.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "os corners da imagem nao estao bem marcados, entao os tracos verdes acabam nao coincidindo bem com as paredes reais da imagem"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    541.7,
+    315.5
+   ],
+   [
+    113.3,
+    303.5
+   ],
+   [
+    169.5,
+    13.3
+   ],
+   [
+    491.2,
+    15.7
+   ]
+  ],
+  "contrast": 0.216,
+  "lensFit": {
+   "h": [
+    -26.63922023494639,
+    6.7131454702894855,
+    540.3142442938652,
+    -0.08429729605914225,
+    -18.50440279173038,
+    312.26538074451713,
+    0.0015589080356644847,
+    0.01968524942923387
+   ],
+   "posts": 52,
+   "before": 3.655700550059137,
+   "hFit": 3.321324941937085,
+   "k1Fit": 3.286870787559617,
+   "k1": -0.03465235577408292,
+   "bendCells": 0.08454981444636833,
+   "cornersImage": [
+    [
+     536.6,
+     310.0
+    ],
+    [
+     114.5,
+     301.5
+    ],
+    [
+     167.4,
+     13.4
+    ],
+    [
+     490.0,
+     14.8
+    ]
+   ]
+  },
+  "k1": -0.0347,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2016-ef-2",
+  "mazeFiles": [
+   "classic/japan2016-ef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2016,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=XPqlBQ-gS8A&t=16080s",
+   "timestamp": 16080,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20161120",
+   "title": "マイクロマウス2016 決勝 クラシックエキスパート / Micromouse 2016 Classic Expert Class Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    539.9,
+    313.4
+   ],
+   [
+    113.3,
+    303.6
+   ],
+   [
+    170.7,
+    12.8
+   ],
+   [
+    491.8,
+    15.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.204,
+  "nextBest": 0.144,
+  "nextBestFiles": [
+   "classic/portugal-2017-final-expert.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 20.8,
+  "gridSize": 16,
+  "notes": "37th All Japan, Classic Expert final; 360p source.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "os corners da imagem nao estao bem marcados, entao os tracos verdes acabam nao coincidindo bem com as paredes reais da imagem"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    541.7,
+    315.0
+   ],
+   [
+    122.8,
+    301.5
+   ],
+   [
+    171.5,
+    12.8
+   ],
+   [
+    489.7,
+    15.7
+   ]
+  ],
+  "contrast": 0.204,
+  "lensFit": {
+   "h": [
+    -26.812686142159933,
+    6.69242311084541,
+    540.2554854402449,
+    -0.27121751888981954,
+    -18.445458497555006,
+    311.64242875520375,
+    0.0003441244010427446,
+    0.01952237202938253
+   ],
+   "posts": 54,
+   "before": 3.220819184465059,
+   "hFit": 2.9425994975156744,
+   "k1Fit": 2.809879316684417,
+   "k1": -0.05855162159926956,
+   "bendCells": 0.14455177361236068,
+   "cornersImage": [
+    [
+     534.0,
+     307.9
+    ],
+    [
+     116.1,
+     302.4
+    ],
+    [
+     169.2,
+     13.2
+    ],
+    [
+     488.9,
+     16.8
+    ]
+   ]
+  },
+  "k1": -0.0586,
+  "distortion": "mild",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "all-japan-2017-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2017,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=9VM3-UUtnHg&t=3480s",
+   "timestamp": 3480,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20171119",
+   "title": "【決勝】第38回全日本マイクロマウス大会【無人カメラ】"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    219.0,
+    22.0
+   ],
+   [
+    561.5,
+    71.5
+   ],
+   [
+    546.0,
+    302.5
+   ],
+   [
+    104.0,
+    227.5
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.178,
+  "nextBest": 0.153,
+  "nextBestFiles": [
+   "classic/supo4.txt"
+  ],
+  "bestGuess": [
+   "classic/loop.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 19.7,
+  "gridSize": 16,
+  "notes": "38th All Japan final, unmanned camera; 360p source; match to the 2017 files not established (best score is weak).",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao bem encaixadas com as laterais externas do labirinto real"
+  },
+  "k1": null,
+  "distortion": "none",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "proposal": {
+   "walls": 212,
+   "unsure": 268,
+   "file": "proposals/all-japan-2017-classic-unknown-1.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "all-japan-2017-classic-unknown-2",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2017,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=9VM3-UUtnHg&t=7260s",
+   "timestamp": 7260,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20171119",
+   "title": "【決勝】第38回全日本マイクロマウス大会【無人カメラ】"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    219.0,
+    22.0
+   ],
+   [
+    562.0,
+    71.5
+   ],
+   [
+    545.5,
+    303.0
+   ],
+   [
+    104.5,
+    227.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.176,
+  "nextBest": 0.153,
+  "nextBestFiles": [
+   "classic/supo4.txt"
+  ],
+  "bestGuess": [
+   "classic/loop.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 19.7,
+  "gridSize": 16,
+  "notes": "38th All Japan final, unmanned camera; 360p source; match to the 2017 files not established (best score is weak).",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao bem encaixadas com as laterais externas do labirinto real"
+  },
+  "k1": null,
+  "distortion": "none",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "proposal": {
+   "walls": 212,
+   "unsure": 1,
+   "file": "proposals/all-japan-2017-classic-unknown-2.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "oshwdem2018-1",
+  "mazeFiles": [
+   "classic/oshwdem2018.txt"
+  ],
+  "competition": "OSHWDem",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=P4lyCyOdy2c&t=22s",
+   "timestamp": 22,
+   "channel": "Bulebots Team",
+   "channelUrl": "https://www.youtube.com/channel/UCT-16X_P9nkNOPFddm7ESNA",
+   "uploadDate": "20181111",
+   "title": "Bulebule micromouse: First successful run on a 16x16 maze"
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    1599.9,
+    1045.8
+   ],
+   [
+    76.6,
+    653.5
+   ],
+   [
+    766.3,
+    168.3
+   ],
+   [
+    1830.6,
+    320.2
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.556,
+  "nextBest": 0.133,
+  "nextBestFiles": [
+   "classic/us89.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 66.5,
+  "gridSize": 16,
+  "notes": "Bulebule run at OSHWDem 2018; video is Creative Commons (CC-BY), by Bulebots Team.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1600.7,
+    1045.0
+   ],
+   [
+    75.8,
+    653.5
+   ],
+   [
+    765.5,
+    168.3
+   ],
+   [
+    1830.2,
+    320.2
+   ]
+  ],
+  "contrast": 0.551,
+  "lensFit": {
+   "h": [
+    -93.49004639843437,
+    86.18261710202802,
+    1591.9121494730693,
+    -12.891241805366741,
+    -32.739498686376315,
+    1042.8570373160655,
+    0.017651608430013472,
+    0.03936840233332138
+   ],
+   "posts": 113,
+   "before": 4.226020115406797,
+   "hFit": 2.6072515840784907,
+   "k1Fit": 2.400731573912026,
+   "k1": 0.01574996353108239,
+   "bendCells": 0.07609428997619024,
+   "cornersImage": [
+    [
+     1597.3,
+     1047.1
+    ],
+    [
+     65.8,
+     653.5
+    ],
+    [
+     770.9,
+     162.7
+    ],
+    [
+     1831.6,
+     316.2
+    ]
+   ]
+  },
+  "k1": 0.0157,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "oshwdem2018-2",
+  "mazeFiles": [
+   "classic/oshwdem2018.txt"
+  ],
+  "competition": "OSHWDem",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=P4lyCyOdy2c&t=25s",
+   "timestamp": 25,
+   "channel": "Bulebots Team",
+   "channelUrl": "https://www.youtube.com/channel/UCT-16X_P9nkNOPFddm7ESNA",
+   "uploadDate": "20181111",
+   "title": "Bulebule micromouse: First successful run on a 16x16 maze"
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    1600.7,
+    1044.6
+   ],
+   [
+    76.9,
+    652.5
+   ],
+   [
+    765.0,
+    168.9
+   ],
+   [
+    1829.7,
+    321.7
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.559,
+  "nextBest": 0.132,
+  "nextBestFiles": [
+   "classic/alljapan-014-1993-frsh.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 66.4,
+  "gridSize": 16,
+  "notes": "Bulebule run at OSHWDem 2018; video is Creative Commons (CC-BY), by Bulebots Team.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1600.7,
+    1045.0
+   ],
+   [
+    77.3,
+    652.5
+   ],
+   [
+    765.0,
+    169.3
+   ],
+   [
+    1829.7,
+    321.7
+   ]
+  ],
+  "contrast": 0.555,
+  "lensFit": {
+   "h": [
+    -93.46086901485492,
+    86.25830897829472,
+    1591.9615379474412,
+    -12.873091657849685,
+    -32.7200859029966,
+    1043.0873151767253,
+    0.017709906698842436,
+    0.039425786186248486
+   ],
+   "posts": 113,
+   "before": 4.531261791355394,
+   "hFit": 2.673474847211609,
+   "k1Fit": 2.461703457129785,
+   "k1": 0.01635434683216377,
+   "bendCells": 0.07906019746760429,
+   "cornersImage": [
+    [
+     1597.5,
+     1047.5
+    ],
+    [
+     65.8,
+     653.5
+    ],
+    [
+     771.0,
+     162.9
+    ],
+    [
+     1831.7,
+     316.2
+    ]
+   ]
+  },
+  "k1": 0.0164,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "oshwdem2018-3",
+  "mazeFiles": [
+   "classic/oshwdem2018.txt"
+  ],
+  "competition": "OSHWDem",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=P4lyCyOdy2c&t=4s",
+   "timestamp": 4,
+   "channel": "Bulebots Team",
+   "channelUrl": "https://www.youtube.com/channel/UCT-16X_P9nkNOPFddm7ESNA",
+   "uploadDate": "20181111",
+   "title": "Bulebule micromouse: First successful run on a 16x16 maze"
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    1599.2,
+    1045.0
+   ],
+   [
+    77.8,
+    651.5
+   ],
+   [
+    765.5,
+    168.3
+   ],
+   [
+    1830.6,
+    322.2
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.556,
+  "nextBest": 0.132,
+  "nextBestFiles": [
+   "classic/alljapan-014-1993-frsh.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 66.4,
+  "gridSize": 16,
+  "notes": "Bulebule run at OSHWDem 2018; video is Creative Commons (CC-BY), by Bulebots Team.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    1599.2,
+    1045.0
+   ],
+   [
+    77.8,
+    651.5
+   ],
+   [
+    765.5,
+    168.3
+   ],
+   [
+    1830.2,
+    322.2
+   ]
+  ],
+  "contrast": 0.551,
+  "lensFit": {
+   "h": [
+    -93.39826005942994,
+    86.33031506621467,
+    1591.610264833891,
+    -12.802874515993441,
+    -32.772832111420605,
+    1042.9131744265396,
+    0.017772981496789877,
+    0.03945143420707032
+   ],
+   "posts": 110,
+   "before": 4.539636812420594,
+   "hFit": 2.5551426730981843,
+   "k1Fit": 2.2929479641881945,
+   "k1": 0.018200613181461933,
+   "bendCells": 0.08794416856339349,
+   "cornersImage": [
+    [
+     1597.8,
+     1047.8
+    ],
+    [
+     65.2,
+     653.9
+    ],
+    [
+     771.3,
+     162.8
+    ],
+    [
+     1832.8,
+     315.2
+    ]
+   ]
+  },
+  "k1": 0.0182,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2024-robochallenge-day1-1",
+  "mazeFiles": [
+   "classic/br2024-robochallenge-day1.txt"
+  ],
+  "competition": "RoboChallenge Brazil",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=DROw5R9BNTg&t=1380s",
+   "timestamp": 1380,
+   "channel": "Kimauánisso Robotics Team",
+   "channelUrl": "https://www.youtube.com/channel/UCgYVL1l_399_fhkUP76vwjQ",
+   "uploadDate": "20241012",
+   "title": "RoboChallenge BR 2024 - MICROMOUSE - dia 01"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    304.4,
+    405.0
+   ],
+   [
+    986.5,
+    25.5
+   ],
+   [
+    1812.5,
+    277.5
+   ],
+   [
+    1226.5,
+    1019.4
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.543,
+  "nextBest": 0.476,
+  "nextBestFiles": [
+   "classic/ph-002.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [
+   {
+    "files": [
+     "classic/tor91.txt"
+    ],
+    "wallsDiffering": 3
+   }
+  ],
+  "view": "oblique",
+  "pxPerCell": 57.8,
+  "gridSize": 16,
+  "notes": "RoboChallenge BR 2024, day 1 (video by Kimauanisso Robotics Team; linked from mazefiles PR 25). Overlay graphics cover the bottom-left.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    304.0,
+    405.0
+   ],
+   [
+    986.5,
+    25.5
+   ],
+   [
+    1812.5,
+    277.5
+   ],
+   [
+    1226.5,
+    1019.0
+   ]
+  ],
+  "contrast": 0.53,
+  "lensFit": {
+   "h": [
+    66.90573497869363,
+    30.710645367066636,
+    301.1650618153886,
+    -23.164568716887125,
+    15.51822152974208,
+    408.8867815955222,
+    0.024153391985575392,
+    -0.021978228439823475
+   ],
+   "posts": 44,
+   "before": 2.57020528549725,
+   "hFit": 1.144396213485342,
+   "k1Fit": 2.0769019245166374,
+   "k1": 0.04296465994298953,
+   "bendCells": 0.13143780059356389,
+   "cornersImage": [
+    [
+     290.6,
+     406.8
+    ],
+    [
+     989.6,
+     22.8
+    ],
+    [
+     1823.4,
+     269.7
+    ],
+    [
+     1225.1,
+     1018.5
+    ]
+   ]
+  },
+  "k1": 0.043,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2024-robochallenge-day1-2",
+  "mazeFiles": [
+   "classic/br2024-robochallenge-day1.txt"
+  ],
+  "competition": "RoboChallenge Brazil",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=DROw5R9BNTg&t=2100s",
+   "timestamp": 2100,
+   "channel": "Kimauánisso Robotics Team",
+   "channelUrl": "https://www.youtube.com/channel/UCgYVL1l_399_fhkUP76vwjQ",
+   "uploadDate": "20241012",
+   "title": "RoboChallenge BR 2024 - MICROMOUSE - dia 01"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    304.4,
+    405.9
+   ],
+   [
+    987.2,
+    26.1
+   ],
+   [
+    1811.3,
+    277.5
+   ],
+   [
+    1225.6,
+    1019.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.515,
+  "nextBest": 0.454,
+  "nextBestFiles": [
+   "classic/ph-002.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [
+   {
+    "files": [
+     "classic/tor91.txt"
+    ],
+    "wallsDiffering": 3
+   }
+  ],
+  "view": "oblique",
+  "pxPerCell": 57.8,
+  "gridSize": 16,
+  "notes": "RoboChallenge BR 2024, day 1 (video by Kimauanisso Robotics Team; linked from mazefiles PR 25). Overlay graphics cover the bottom-left.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    304.0,
+    405.5
+   ],
+   [
+    986.5,
+    26.5
+   ],
+   [
+    1812.0,
+    277.5
+   ],
+   [
+    1226.0,
+    1019.0
+   ]
+  ],
+  "contrast": 0.502,
+  "lensFit": {
+   "h": [
+    65.98964779972607,
+    30.888700473415085,
+    297.4282135069601,
+    -23.675708977853603,
+    15.57032525402569,
+    408.4331118896123,
+    0.023098768481209026,
+    -0.02207264762754139
+   ],
+   "posts": 66,
+   "before": 4.155359674256693,
+   "hFit": 3.924149535388917,
+   "k1Fit": 3.9371081061168716,
+   "k1": -0.020742767756237554,
+   "bendCells": 0.06713278124209078,
+   "cornersImage": [
+    [
+     302.6,
+     409.5
+    ],
+    [
+     988.0,
+     24.0
+    ],
+    [
+     1805.8,
+     277.9
+    ],
+    [
+     1222.5,
+     1014.2
+    ]
+   ]
+  },
+  "k1": -0.0207,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2024-robochallenge-day1-3",
+  "mazeFiles": [
+   "classic/br2024-robochallenge-day1.txt"
+  ],
+  "competition": "RoboChallenge Brazil",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=DROw5R9BNTg&t=120s",
+   "timestamp": 120,
+   "channel": "Kimauánisso Robotics Team",
+   "channelUrl": "https://www.youtube.com/channel/UCgYVL1l_399_fhkUP76vwjQ",
+   "uploadDate": "20241012",
+   "title": "RoboChallenge BR 2024 - MICROMOUSE - dia 01"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    307.6,
+    406.3
+   ],
+   [
+    987.2,
+    27.2
+   ],
+   [
+    1813.2,
+    278.0
+   ],
+   [
+    1225.3,
+    1017.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.509,
+  "nextBest": 0.448,
+  "nextBestFiles": [
+   "classic/ph-002.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [
+   {
+    "files": [
+     "classic/tor91.txt"
+    ],
+    "wallsDiffering": 3
+   }
+  ],
+  "view": "oblique",
+  "pxPerCell": 57.6,
+  "gridSize": 16,
+  "notes": "RoboChallenge BR 2024, day 1 (video by Kimauanisso Robotics Team; linked from mazefiles PR 25). Overlay graphics cover the bottom-left.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    308.0,
+    406.3
+   ],
+   [
+    987.2,
+    27.2
+   ],
+   [
+    1813.2,
+    278.0
+   ],
+   [
+    1225.3,
+    1017.5
+   ]
+  ],
+  "contrast": 0.497,
+  "lensFit": {
+   "h": [
+    66.55674630926045,
+    31.166021054682222,
+    299.0391681730425,
+    -23.453566901389774,
+    15.660204476744168,
+    410.84763086412676,
+    0.023671987440880515,
+    -0.021718966102855067
+   ],
+   "posts": 76,
+   "before": 5.478514620692226,
+   "hFit": 5.158613804929085,
+   "k1Fit": 5.109053553717385,
+   "k1": 0.01859950393230953,
+   "bendCells": 0.05783947128494485,
+   "cornersImage": [
+    [
+     294.4,
+     409.9
+    ],
+    [
+     989.4,
+     23.7
+    ],
+    [
+     1816.3,
+     274.3
+    ],
+    [
+     1223.7,
+     1015.8
+    ]
+   ]
+  },
+  "k1": 0.0186,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "br2025-robochallenge-day1-1",
+  "mazeFiles": [
+   "classic/br2025-robochallenge-day1.txt"
+  ],
+  "competition": "RoboChallenge Brazil",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ju_eh2JDZEk&t=2s",
+   "timestamp": 2,
+   "channel": "Raijū Team",
+   "channelUrl": "https://www.youtube.com/channel/UCJGVVpYbUDsjrd14DW9y53w",
+   "uploadDate": "20251007",
+   "title": "Fujin - Micromouse Classic - RoboChallenge BR 2025 First Day"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    578.5,
+    123.3
+   ],
+   [
+    1330.7,
+    119.2
+   ],
+   [
+    1826.2,
+    968.0
+   ],
+   [
+    98.8,
+    984.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.672,
+  "nextBest": 0.189,
+  "nextBestFiles": [
+   "classic/apec2026.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 69.5,
+  "gridSize": 16,
+  "notes": "RoboChallenge BR 2025, day 1 (Raiju Team video; linked from mazefiles PR 29).",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "cornersPrev": [
+   [
+    578.5,
+    123.3
+   ],
+   [
+    1330.7,
+    119.2
+   ],
+   [
+    1826.2,
+    968.0
+   ],
+   [
+    98.8,
+    984.5
+   ]
+  ],
+  "contrast": 0.667,
+  "lensFit": {
+   "h": [
+    47.40534846818013,
+    -33.61272432669985,
+    578.1229773957465,
+    -0.19414296364003727,
+    19.060076140087812,
+    121.87424221278346,
+    0.00030901249106712636,
+    -0.035489918949538915
+   ],
+   "posts": 120,
+   "before": 1.2733574042355587,
+   "hFit": 0.7498405946141664,
+   "k1Fit": 0.8170192187898846,
+   "k1": -0.006656321747735522,
+   "bendCells": 0.026218802129544527,
+   "cornersImage": [
+    [
+     578.8,
+     122.6
+    ],
+    [
+     1329.4,
+     118.9
+    ],
+    [
+     1823.0,
+     967.2
+    ],
+    [
+     97.8,
+     985.3
+    ]
+   ]
+  },
+  "k1": -0.0067,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "camm2019-1",
+  "mazeFiles": [
+   "classic/camm2019.txt"
+  ],
+  "competition": "CAMM",
+  "year": 2019,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=fvkYQOneKQw&t=3883s",
+   "timestamp": 3883,
+   "channel": "Green ye",
+   "channelUrl": "https://www.youtube.com/channel/UCUpjRUqnidm15wYb0Kr6-dg",
+   "uploadDate": "20190709",
+   "title": "【4K】2019 California Micromouse Competition (CAMM) at UCSD, May 27th, 2019. Top View"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    428.7,
+    86.0
+   ],
+   [
+    1218.1,
+    74.4
+   ],
+   [
+    1424.5,
+    869.0
+   ],
+   [
+    301.5,
+    958.2
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.174,
+  "nextBest": 0.077,
+  "nextBestFiles": [
+   "classic/us86x.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 56.5,
+  "gridSize": 16,
+  "notes": "California Micromouse Competition 2019 at UCSD (linked from mazefiles PR 35); wide-angle lens with strong barrel distortion, so the four-corner homography only approximates the grid.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "Está correto, mas a imagem está muito distorcida (fisheye) entao o tracado verde encaixa pouco sobre as paredes reais da imagem"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    428.3,
+    85.3
+   ],
+   [
+    1218.1,
+    74.8
+   ],
+   [
+    1424.1,
+    869.0
+   ],
+   [
+    301.5,
+    958.2
+   ]
+  ],
+  "contrast": 0.175,
+  "lensFit": {
+   "h": [
+    60.67370130459102,
+    -16.496997696676488,
+    392.2210484987393,
+    1.0502872120175235,
+    38.97161079405282,
+    48.53829908133608,
+    0.007147976500513948,
+    -0.02218686168235065
+   ],
+   "posts": 84,
+   "before": 14.589641896546405,
+   "hFit": 7.525650156557741,
+   "k1Fit": 1.6630564330595343,
+   "k1": -0.29125480628186695,
+   "bendCells": 1.0345742824397843,
+   "cornersImage": [
+    [
+     469.1,
+     115.1
+    ],
+    [
+     1204.1,
+     93.4
+    ],
+    [
+     1403.7,
+     874.4
+    ],
+    [
+     350.8,
+     941.8
+    ]
+   ]
+  },
+  "k1": -0.2913,
+  "distortion": "fisheye",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "chubu-japan-2026-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "Chubu Japan",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=n_NJ3_16bM8&t=3202s",
+   "timestamp": 3202,
+   "channel": "マイクロマウス中部支部",
+   "channelUrl": "https://www.youtube.com/channel/UCJ08csQzcRJXvRlK03YKUlA",
+   "uploadDate": "20261101",
+   "title": "第43回マイクロマウス中部地区大会 その１(2026/11/3開催)"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    475.5,
+    39.0
+   ],
+   [
+    1466.0,
+    21.0
+   ],
+   [
+    1860.0,
+    1079.0
+   ],
+   [
+    96.0,
+    1079.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.2,
+  "nextBest": 0.156,
+  "nextBestFiles": [
+   "halfsize/UK-techfest-2022-a.txt"
+  ],
+  "bestGuess": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 78.0,
+  "gridSize": 16,
+  "notes": "43rd Chubu regional (2026-11-03); the maze is not in the repo yet and needs transcribing; corners fitted on the outer wall only.",
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "proposal": {
+   "walls": 215,
+   "unsure": 8,
+   "file": "proposals/chubu-japan-2026-classic-unknown-1.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "chubu-japan-2026-classic-unknown-2",
+  "mazeFiles": [],
+  "competition": "Chubu Japan",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=n_NJ3_16bM8&t=3220s",
+   "timestamp": 3220,
+   "channel": "マイクロマウス中部支部",
+   "channelUrl": "https://www.youtube.com/channel/UCJ08csQzcRJXvRlK03YKUlA",
+   "uploadDate": "20261101",
+   "title": "第43回マイクロマウス中部地区大会 その１(2026/11/3開催)"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    475.0,
+    38.0
+   ],
+   [
+    1465.0,
+    21.0
+   ],
+   [
+    1860.5,
+    1079.5
+   ],
+   [
+    91.0,
+    1092.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.194,
+  "nextBest": 0.154,
+  "nextBestFiles": [
+   "classic/uknov2016f.txt"
+  ],
+  "bestGuess": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 78.3,
+  "gridSize": 16,
+  "notes": "43rd Chubu regional (2026-11-03); the maze is not in the repo yet and needs transcribing; corners fitted on the outer wall only.",
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "proposal": {
+   "walls": 212,
+   "unsure": 268,
+   "file": "proposals/chubu-japan-2026-classic-unknown-2.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "chubu-japan-2026-classic-unknown-3",
+  "mazeFiles": [],
+  "competition": "Chubu Japan",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=n_NJ3_16bM8&t=3238s",
+   "timestamp": 3238,
+   "channel": "マイクロマウス中部支部",
+   "channelUrl": "https://www.youtube.com/channel/UCJ08csQzcRJXvRlK03YKUlA",
+   "uploadDate": "20261101",
+   "title": "第43回マイクロマウス中部地区大会 その１(2026/11/3開催)"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    473.0,
+    39.0
+   ],
+   [
+    1464.0,
+    20.0
+   ],
+   [
+    1862.0,
+    1079.0
+   ],
+   [
+    94.0,
+    1086.5
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.198,
+  "nextBest": 0.152,
+  "nextBestFiles": [
+   "halfsize/UK-techfest-2022-a.txt"
+  ],
+  "bestGuess": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 78.2,
+  "gridSize": 16,
+  "notes": "43rd Chubu regional (2026-11-03); the maze is not in the repo yet and needs transcribing; corners fitted on the outer wall only.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao com um encaixe ok com as laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem"
+  },
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "proposal": {
+   "walls": 208,
+   "unsure": 15,
+   "file": "proposals/chubu-japan-2026-classic-unknown-3.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "uk-2025-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "UK",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=Q--6B3q29i8&t=61s",
+   "timestamp": 61,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20251031",
+   "title": "Full over head cam UKMARS Autumn Micromouse Oct 2025"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    517,
+    116
+   ],
+   [
+    1437,
+    165
+   ],
+   [
+    1400,
+    1118
+   ],
+   [
+    446,
+    1056
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, by eye on zoomed crops)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.085,
+  "nextBest": 0.067,
+  "nextBestFiles": [
+   "classic/uknov2015f.txt"
+  ],
+  "bestGuess": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 61.7,
+  "gridSize": 16,
+  "notes": "UK Autumn 2025 contest; the maze is not in the repo yet and needs transcribing; corners fitted on the outer wall only.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao com um encaixe ok nas laterais esquerda, superior e direita em relacao às laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem. porém a lateral inferior está bem errada, está muito pra cima, diria que principalmente pq a parte inferiror do labirinto está um pouco cortada"
+  },
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "cornersPrev": [
+   [
+    514.0,
+    96.5
+   ],
+   [
+    1520.0,
+    158.0
+   ],
+   [
+    1481.5,
+    1064.0
+   ],
+   [
+    411.0,
+    1056.5
+   ]
+  ],
+  "cornersFixed": true,
+  "proposal": {
+   "walls": 198,
+   "unsure": 18,
+   "file": "proposals/uk-2025-classic-unknown-1.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "uk-2025-classic-unknown-2",
+  "mazeFiles": [],
+  "competition": "UK",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=Q--6B3q29i8&t=2161s",
+   "timestamp": 2161,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20251031",
+   "title": "Full over head cam UKMARS Autumn Micromouse Oct 2025"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    519,
+    120
+   ],
+   [
+    1441,
+    167
+   ],
+   [
+    1400,
+    1120
+   ],
+   [
+    445,
+    1055
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, by eye on zoomed crops)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.097,
+  "nextBest": 0.081,
+  "nextBestFiles": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "bestGuess": [
+   "classic/portugal-2017-final-expert.txt"
+  ],
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 62.6,
+  "gridSize": 16,
+  "notes": "UK Autumn 2025 contest; the maze is not in the repo yet and needs transcribing; corners fitted on the outer wall only.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao com um encaixe ok nas laterais esquerda e superior em relacao às laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem. porém a lateral inferior está bem errada, está muito pra cima, diria que principalmente pq a parte inferiror do labirinto está um pouco cortada. nessa foto a lateral direita também está errada, a quina direita inferior está muito pra direita "
+  },
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "cornersPrev": [
+   [
+    511.0,
+    86.0
+   ],
+   [
+    1496.0,
+    167.0
+   ],
+   [
+    1554.0,
+    1067.0
+   ],
+   [
+    415.5,
+    1059.5
+   ]
+  ],
+  "cornersFixed": true,
+  "proposal": {
+   "walls": 193,
+   "unsure": 15,
+   "file": "proposals/uk-2025-classic-unknown-2.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "uk-2025-classic-unknown-3",
+  "mazeFiles": [],
+  "competition": "UK",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=Q--6B3q29i8&t=3661s",
+   "timestamp": 3661,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20251031",
+   "title": "Full over head cam UKMARS Autumn Micromouse Oct 2025"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    520,
+    120
+   ],
+   [
+    1445,
+    169
+   ],
+   [
+    1401,
+    1120
+   ],
+   [
+    446,
+    1055
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, by eye on zoomed crops)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.09,
+  "nextBest": 0.072,
+  "nextBestFiles": [
+   "classic/japan1989.txt"
+  ],
+  "bestGuess": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 62.5,
+  "gridSize": 16,
+  "notes": "UK Autumn 2025 contest; the maze is not in the repo yet and needs transcribing; corners fitted on the outer wall only.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao com um encaixe ok nas laterais esquerda e superior em relacao às laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem. porém a lateral inferior está bem errada, está muito pra cima, diria que principalmente pq a parte inferiror do labirinto está um pouco cortada. nessa foto a lateral direita também está errada, a quina direita inferior está muito pra direita "
+  },
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "cornersPrev": [
+   [
+    511.0,
+    105.0
+   ],
+   [
+    1499.0,
+    150.0
+   ],
+   [
+    1552.0,
+    1064.0
+   ],
+   [
+    420.5,
+    1062.0
+   ]
+  ],
+  "cornersFixed": true,
+  "proposal": {
+   "walls": 196,
+   "unsure": 17,
+   "file": "proposals/uk-2025-classic-unknown-3.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "japan2015-ef-1",
+  "mazeFiles": [
+   "classic/japan2015-ef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2015,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=zxlbA074gP8&t=7680s",
+   "timestamp": 7680,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20151122",
+   "title": "第36回全日本マイクロマウス大会 Micromouse2015 クラシック エキスパート決勝 Classic Expert Class Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    151.1,
+    326.9
+   ],
+   [
+    171.1,
+    16.9
+   ],
+   [
+    505.4,
+    11.5
+   ],
+   [
+    533.1,
+    322.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 270,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.134,
+  "nextBest": 0.054,
+  "nextBestFiles": [
+   "classic/long.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 20.9,
+  "gridSize": 16,
+  "notes": "36th All Japan, Classic Expert final; 360p source; weak absolute score because walls are only a few pixels wide.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    151.0,
+    327.0
+   ],
+   [
+    171.0,
+    17.0
+   ],
+   [
+    505.5,
+    11.5
+   ],
+   [
+    533.0,
+    322.0
+   ]
+  ],
+  "contrast": 0.134,
+  "lensFit": {
+   "h": [
+    2.7407630335056012,
+    23.714951015086196,
+    150.69048886822006,
+    -19.217440251018505,
+    -0.3975373120048288,
+    326.4305004936792,
+    0.008852834720797544,
+    -0.0003010469166851375
+   ],
+   "posts": 118,
+   "before": 0.742588105125403,
+   "hFit": 0.32737760831272017,
+   "k1Fit": 0.31739944373721085,
+   "k1": -0.0026357792920788854,
+   "bendCells": 0.0058273806902085865,
+   "cornersImage": [
+    [
+     150.9,
+     326.3
+    ],
+    [
+     170.5,
+     16.8
+    ],
+    [
+     504.7,
+     11.3
+    ],
+    [
+     532.4,
+     321.4
+    ]
+   ]
+  },
+  "k1": -0.0026,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "japan2015-ef-2",
+  "mazeFiles": [
+   "classic/japan2015-ef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2015,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=zxlbA074gP8&t=16320s",
+   "timestamp": 16320,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20151122",
+   "title": "第36回全日本マイクロマウス大会 Micromouse2015 クラシック エキスパート決勝 Classic Expert Class Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    145.6,
+    327.5
+   ],
+   [
+    165.9,
+    17.1
+   ],
+   [
+    500.0,
+    11.9
+   ],
+   [
+    527.6,
+    322.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 270,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.137,
+  "nextBest": 0.054,
+  "nextBestFiles": [
+   "classic/uk2025-hazlemere.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 20.9,
+  "gridSize": 16,
+  "notes": "36th All Japan, Classic Expert final; 360p source; weak absolute score because walls are only a few pixels wide.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    145.5,
+    327.5
+   ],
+   [
+    166.0,
+    17.5
+   ],
+   [
+    500.0,
+    12.0
+   ],
+   [
+    527.5,
+    322.0
+   ]
+  ],
+  "contrast": 0.137,
+  "lensFit": {
+   "h": [
+    2.7646463730996462,
+    23.81000179294358,
+    144.8964627338643,
+    -19.236578110097504,
+    -0.39084878658268896,
+    327.087658155079,
+    0.009026919818663218,
+    -0.0002077554021505113
+   ],
+   "posts": 115,
+   "before": 0.7367876276511158,
+   "hFit": 0.29902376260945346,
+   "k1Fit": 0.2855945993529766,
+   "k1": -0.00670576846499805,
+   "bendCells": 0.01469835352538824,
+   "cornersImage": [
+    [
+     145.4,
+     326.7
+    ],
+    [
+     165.7,
+     17.3
+    ],
+    [
+     499.1,
+     11.9
+    ],
+    [
+     527.0,
+     321.5
+    ]
+   ]
+  },
+  "k1": -0.0067,
+  "distortion": "none",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec2019-1",
+  "mazeFiles": [
+   "classic/apec2019.txt"
+  ],
+  "competition": "APEC",
+  "year": 2019,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=IY6I_W2A7pY&t=1260s",
+   "timestamp": 1260,
+   "channel": "Green ye",
+   "channelUrl": "https://www.youtube.com/channel/UCUpjRUqnidm15wYb0Kr6-dg",
+   "uploadDate": "20190321",
+   "title": "【4K】APEC 2019 Micromouse Contest Top Camera"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    533.5,
+    12.3
+   ],
+   [
+    1427.3,
+    28.2
+   ],
+   [
+    1553.3,
+    995.0
+   ],
+   [
+    304.2,
+    880.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.242,
+  "nextBest": 0.174,
+  "nextBestFiles": [
+   "classic/apec2018.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 62.8,
+  "gridSize": 16,
+  "notes": "APEC 2019 top camera (4K source, 1080p frame); wide-angle lens with strong barrel distortion, so the four-corner homography only approximates the grid.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "Está correto, mas a imagem está muito distorcida (fisheye) entao o tracado verde encaixa pouco sobre as paredes reais da imagem"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    533.5,
+    12.3
+   ],
+   [
+    1425.7,
+    28.2
+   ],
+   [
+    1551.7,
+    995.0
+   ],
+   [
+    305.8,
+    880.5
+   ]
+  ],
+  "contrast": 0.239,
+  "lensFit": {
+   "h": [
+    57.978017557013224,
+    -21.96096058315211,
+    495.0458143245363,
+    1.9706071456656038,
+    44.943577273391654,
+    -33.61098902244897,
+    -0.0008148334734853316,
+    -0.02054960506343374
+   ],
+   "posts": 62,
+   "before": 21.636453833568048,
+   "hFit": 5.763995971306818,
+   "k1Fit": 2.073048501652553,
+   "k1": -0.28525185638847605,
+   "bendCells": 1.0667758582211344,
+   "cornersImage": [
+    [
+     554.6,
+     39.9
+    ],
+    [
+     1382.0,
+     64.9
+    ],
+    [
+     1510.3,
+     992.8
+    ],
+    [
+     352.3,
+     932.1
+    ]
+   ]
+  },
+  "k1": -0.2853,
+  "distortion": "fisheye",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ },
+ {
+  "id": "apec-2017-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "APEC",
+  "year": 2017,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=p2ebgLiPxxg&t=1110s",
+   "timestamp": 1110,
+   "channel": "Green ye",
+   "channelUrl": "https://www.youtube.com/channel/UCUpjRUqnidm15wYb0Kr6-dg",
+   "uploadDate": "20170407",
+   "title": "【4K】 APEC 2017 Micromouse Contest, Cam 1 Top View"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    581,
+    119
+   ],
+   [
+    1376,
+    70
+   ],
+   [
+    1571,
+    981
+   ],
+   [
+    432,
+    980
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, by eye on zoomed crops)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.262,
+  "nextBest": 0.227,
+  "nextBestFiles": [
+   "halfsize/UK-techfest-2022-a.txt"
+  ],
+  "bestGuess": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 64.0,
+  "gridSize": 16,
+  "notes": "APEC 2017 top camera (Green ye, 4K source, 1080p frame); wide-angle lens with barrel distortion.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao com um encaixe ruim com as laterais externas do labirinto real, nao está otimo pois a imagem está muito distorcida (fisheye) entao as paredes externas estao um bem curvadas na imagem. "
+  },
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "cornersPrev": [
+   [
+    612.0,
+    74.5
+   ],
+   [
+    1394.0,
+    89.0
+   ],
+   [
+    1684.5,
+    1075.0
+   ],
+   [
+    358.0,
+    997.0
+   ]
+  ],
+  "cornersFixed": true,
+  "proposal": {
+   "walls": 91,
+   "unsure": 33,
+   "file": "proposals/apec-2017-classic-unknown-1.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "apec-2017-classic-unknown-2",
+  "mazeFiles": [],
+  "competition": "APEC",
+  "year": 2017,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=p2ebgLiPxxg&t=2160s",
+   "timestamp": 2160,
+   "channel": "Green ye",
+   "channelUrl": "https://www.youtube.com/channel/UCUpjRUqnidm15wYb0Kr6-dg",
+   "uploadDate": "20170407",
+   "title": "【4K】 APEC 2017 Micromouse Contest, Cam 1 Top View"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    579,
+    118
+   ],
+   [
+    1375,
+    67
+   ],
+   [
+    1567,
+    980
+   ],
+   [
+    434,
+    980
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, by eye on zoomed crops)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.261,
+  "nextBest": 0.227,
+  "nextBestFiles": [
+   "halfsize/UK-techfest-2022-a.txt"
+  ],
+  "bestGuess": [
+   "halfsize/uk-spring-2023-half-size.txt"
+  ],
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 63.9,
+  "gridSize": 16,
+  "notes": "APEC 2017 top camera (Green ye, 4K source, 1080p frame); wide-angle lens with barrel distortion.",
+  "review": {
+   "reviewedBy": "owner",
+   "comment": "as laterais estao com um encaixe ruim com as laterais externas do labirinto real, nao está otimo pois a imagem está muito distorcida (fisheye) entao as paredes externas estao um bem curvadas na imagem. "
+  },
+  "k1": null,
+  "distortion": "fisheye",
+  "distortionFrom": "owner review / by eye (no maze file)",
+  "cornersPrev": [
+   [
+    610.0,
+    64.0
+   ],
+   [
+    1394.0,
+    94.0
+   ],
+   [
+    1681.0,
+    1056.0
+   ],
+   [
+    360.0,
+    1010.0
+   ]
+  ],
+  "cornersFixed": true,
+  "proposal": {
+   "walls": 84,
+   "unsure": 32,
+   "file": "proposals/apec-2017-classic-unknown-2.txt",
+   "note": "recogniser output at the dataset corners, photo orientation (TL corner = file NW)"
+  }
+ },
+ {
+  "id": "apec2016-1",
+  "mazeFiles": [
+   "classic/apec2016.txt"
+  ],
+  "competition": "APEC",
+  "year": 2016,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=MVMgNLTQDis&t=1260s",
+   "timestamp": 1260,
+   "channel": "Green ye",
+   "channelUrl": "https://www.youtube.com/channel/UCUpjRUqnidm15wYb0Kr6-dg",
+   "uploadDate": "20160322",
+   "title": "APEC 2016 Micromouse Competition Gopro View"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    923.8,
+    61.7
+   ],
+   [
+    1506.7,
+    335.2
+   ],
+   [
+    1002.9,
+    1064.0
+   ],
+   [
+    397.5,
+    385.7
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.326,
+  "nextBest": 0.195,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 47.8,
+  "gridSize": 16,
+  "notes": "APEC 2016 GoPro view (Green ye); wide-angle distortion; spectators partly cover the edges.",
+  "review": {
+   "reviewedBy": "owner",
+   "verdict": "ok",
+   "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda, direita e inferior nas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem. além disso as quinas Sw, Se e Ne nao estao bem posicionadas"
+  },
+  "promotedFrom": "likely",
+  "cornersPrev": [
+   [
+    923.8,
+    61.7
+   ],
+   [
+    1507.0,
+    335.2
+   ],
+   [
+    1003.2,
+    1064.3
+   ],
+   [
+    397.2,
+    385.7
+   ]
+  ],
+  "contrast": 0.325,
+  "lensFit": {
+   "h": [
+    13.707684368894716,
+    -41.42763928851027,
+    923.5784648728799,
+    14.260037645248506,
+    15.470938630157237,
+    25.91153509612071,
+    -0.015164993117961526,
+    -0.017220314647226526
+   ],
+   "posts": 62,
+   "before": 4.772949138036369,
+   "hFit": 4.459669104789488,
+   "k1Fit": 1.3071840326679942,
+   "k1": -0.3679509957107925,
+   "bendCells": 0.6281350145939717,
+   "cornersImage": [
+    [
+     926.5,
+     67.3
+    ],
+    [
+     1451.9,
+     356.8
+    ],
+    [
+     993.5,
+     1002.7
+    ],
+    [
+     430.3,
+     396.5
+    ]
+   ]
+  },
+  "k1": -0.368,
+  "distortion": "fisheye",
+  "distortionFrom": "k1 fit on the maze posts (|k1|<0.05 none, <0.2 mild)"
+ }
+]

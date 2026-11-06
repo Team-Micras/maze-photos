@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "alljapan-046-2025-exp-fin-1",
+ "image": {
+  "file": "../frames/alljapan-046-2025-exp-fin-1.jpg",
+  "sha256": "543eaacaa233dc838a38ec7753c983eb816ad9e860121038372c8f9f1fee5603",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/alljapan-046-2025-exp-fin.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     901.0,
+     114.5
+    ],
+    [
+     1820.0,
+     181.4
+    ],
+    [
+     1198.0,
+     941.6
+    ],
+    [
+     147.1,
+     545.0
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     898.5,
+     118.4
+    ],
+    [
+     1832.0,
+     181.5
+    ],
+    [
+     1201.4,
+     938.0
+    ],
+    [
+     135.7,
+     542.1
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  25.25206487826222,
+  -49.25564930795022,
+  898.937751551244,
+  1.134097507809794,
+  16.34995661965501,
+  121.49712312537896,
+  -0.017343220739043937,
+  -0.018324170095740985,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": 0.04947492160832022,
+  "centre": [
+   960.0,
+   540.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "oblique",
+  "pxPerCell": 60.9
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=YAk1_WndHuw&t=9101s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

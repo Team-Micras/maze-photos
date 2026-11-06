@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "oshwdem2018-3",
+ "image": {
+  "file": "../frames/oshwdem2018-3.jpg",
+  "sha256": "42d95e3d4bd63a3d1f24c62f8a7fb9209f72ae23b0345904431c67816fdae40d",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/oshwdem2018.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     1599.2,
+     1045.0
+    ],
+    [
+     77.8,
+     651.5
+    ],
+    [
+     765.5,
+     168.3
+    ],
+    [
+     1830.6,
+     322.2
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     1597.8,
+     1047.8
+    ],
+    [
+     65.2,
+     653.9
+    ],
+    [
+     771.3,
+     162.8
+    ],
+    [
+     1832.8,
+     315.2
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  -93.39826005942994,
+  86.33031506621467,
+  1591.610264833891,
+  -12.802874515993441,
+  -32.772832111420605,
+  1042.9131744265396,
+  0.017772981496789877,
+  0.03945143420707032,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": 0.018200613181461933,
+  "centre": [
+   960.0,
+   540.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "oblique",
+  "pxPerCell": 66.4
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=P4lyCyOdy2c&t=4s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

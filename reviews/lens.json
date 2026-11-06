@@ -1,0 +1,212 @@
+{
+ "japan2023hef-2": {
+  "verdict": "ok"
+ },
+ "japan2021hef-1": {
+  "verdict": "ok"
+ },
+ "apec2016-1": {
+  "verdict": "ok"
+ },
+ "japan2021hef-2": {
+  "verdict": "ok"
+ },
+ "japan2023hef-1": {
+  "verdict": "ok"
+ },
+ "camm2019-1": {
+  "verdict": "ok"
+ },
+ "br2026-rcx-day1-1": {
+  "comment": "A quina superior direita está um pouco off, então nessa parte o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "japan2016-ef-1": {
+  "verdict": "ok"
+ },
+ "japan2016-ef-2": {
+  "verdict": "ok"
+ },
+ "alljapan-044-2023-exp-fin-1": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "apec2025-1": {
+  "verdict": "ok"
+ },
+ "br2026-rcx-day2-1": {
+  "verdict": "ok"
+ },
+ "alljapan-044-2023-exp-fin-2": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "alljapan-046-2025-exp-fin-2": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "alljapan-046-2025-exp-fin-3": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "alljapan-2025-classic-2": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "alljapan-2025-classic-3": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "br2024-robochallenge-day1-2": {
+  "verdict": "ok",
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem"
+ },
+ "br2026-rcx-day2-2": {
+  "verdict": "ok"
+ },
+ "br2026-rcx-day2-3": {
+  "verdict": "ok"
+ },
+ "japan2019-1": {
+  "comment": "As quinas superior esquerda e superior direita não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "japan2019-3": {
+  "verdict": "ok"
+ },
+ "oshwdem2018-2": {
+  "verdict": "ok"
+ },
+ "rcx-2026-classic-1": {
+  "verdict": "ok"
+ },
+ "rcx-2026-classic-2": {
+  "verdict": "ok"
+ },
+ "rcx-2026-classic-3": {
+  "verdict": "ok"
+ },
+ "alljapan-046-2025-exp-fin-1": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "alljapan-2025-classic-1": {
+  "comment": "As quinas não estão muito bem posicionadas, principalmente a quina superior e esquerda, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "apec-2025-classic-1": {
+  "verdict": "ok"
+ },
+ "apec-2025-classic-2": {
+  "verdict": "ok"
+ },
+ "apec-2025-classic-3": {
+  "verdict": "ok"
+ },
+ "apec-2026-classic-1": {
+  "verdict": "ok"
+ },
+ "apec-2026-classic-2": {
+  "verdict": "ok"
+ },
+ "apec2024-1": {
+  "verdict": "ok"
+ },
+ "apec2024-2": {
+  "verdict": "ok"
+ },
+ "apec2025-2": {
+  "verdict": "ok"
+ },
+ "apec2025-3": {
+  "verdict": "ok"
+ },
+ "apec2026-1": {
+  "verdict": "ok"
+ },
+ "uk2026-spring-classic-2": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "uk2026-spring-classic-1": {
+  "verdict": "ok"
+ },
+ "uk2025-spring-classic-3": {
+  "verdict": "ok"
+ },
+ "uk2025-spring-classic-2": {
+  "verdict": "ok"
+ },
+ "uk2025-spring-classic-1": {
+  "verdict": "ok"
+ },
+ "uk-spring-2025-classic-3": {
+  "verdict": "ok"
+ },
+ "uk-spring-2025-classic-2": {
+  "verdict": "ok"
+ },
+ "uk-spring-2025-classic-1": {
+  "verdict": "ok"
+ },
+ "uk-final-2026-classic-2": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "uk-final-2026-classic-1": {
+  "verdict": "ok"
+ },
+ "robochallenge-br-2025-classic-2": {
+  "verdict": "ok",
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem"
+ },
+ "robochallenge-br-2025-classic-1": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "rcx-2026-classic-day1-1": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "oshwdem2018-3": {
+  "verdict": "ok",
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem"
+ },
+ "oshwdem2018-1": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "japan2019-2": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "japan2018-2": {
+  "verdict": "ok"
+ },
+ "japan2018-1": {
+  "verdict": "ok"
+ },
+ "br2025-robochallenge-day2-2": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "br2025-robochallenge-day2-1": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "br2025-robochallenge-day1-1": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "br2024-robochallenge-day1-3": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "br2024-robochallenge-day1-1": {
+  "comment": "As quinas do canto superior esquerdo e superior direito não estão muito bem posicionadas, então nessas partes o traçado não tá casando bem com a imagem",
+  "verdict": "ok"
+ },
+ "apec2026-2": {
+  "verdict": "ok"
+ }
+}

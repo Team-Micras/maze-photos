@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "japan2019-1",
+ "image": {
+  "file": "../frames/japan2019-1.jpg",
+  "sha256": "3bbf659ebb28892b0ae11cd2abd1fdf0645c2bfcde5c394915a93d231f18648a",
+  "width": 1280,
+  "height": 720
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/japan2019.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     332.3,
+     115.1
+    ],
+    [
+     930.5,
+     63.2
+    ],
+    [
+     1215.6,
+     534.5
+    ],
+    [
+     137.1,
+     618.1
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     332.7,
+     114.9
+    ],
+    [
+     928.5,
+     63.3
+    ],
+    [
+     1210.8,
+     533.7
+    ],
+    [
+     138.4,
+     619.1
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  36.857883573566966,
+  -16.04394735767827,
+  331.60297904940336,
+  -3.2807517723923425,
+  14.441126477181061,
+  114.0468145426592,
+  -0.0005567212622709991,
+  -0.02776772751816648,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": -0.012057903315977971,
+  "centre": [
+   640.0,
+   360.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "oblique",
+  "pxPerCell": 43.3
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=c5ZnanJlJCQ&t=3240s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

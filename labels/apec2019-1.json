@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "apec2019-1",
+ "image": {
+  "file": "../frames/apec2019-1.jpg",
+  "sha256": "0a5dff23615bca7f26a3454fee71c291d70e2d8e960ef865d3a8a7de179a29f0",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/apec2019.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     533.5,
+     12.3
+    ],
+    [
+     1427.3,
+     28.2
+    ],
+    [
+     1553.3,
+     995.0
+    ],
+    [
+     304.2,
+     880.5
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     554.6,
+     39.9
+    ],
+    [
+     1382.0,
+     64.9
+    ],
+    [
+     1510.3,
+     992.8
+    ],
+    [
+     352.3,
+     932.1
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  57.978017557013224,
+  -21.96096058315211,
+  495.0458143245363,
+  1.9706071456656038,
+  44.943577273391654,
+  -33.61098902244897,
+  -0.0008148334734853316,
+  -0.02054960506343374,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": -0.28525185638847605,
+  "centre": [
+   960.0,
+   540.0
+  ]
+ },
+ "factors": {
+  "distortion": "fisheye",
+  "view": "overhead",
+  "pxPerCell": 62.8
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=IY6I_W2A7pY&t=1260s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

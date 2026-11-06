@@ -1,0 +1,49 @@
+{
+ "schema": "maze-label/1",
+ "id": "apec-2025-classic-2",
+ "image": {
+  "file": "../../maze-photos/frames/apec-2025-classic-2.jpg",
+  "sha256": "d9261eeaa6df7274d70736a7ac232afb3c7241704abe948d341ab9cca4053a5a",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/apec2025.txt",
+  "size": 16
+ },
+ "corners": {
+  "clicked": {
+   "image": [
+    [
+     1550.0,
+     250.5
+    ],
+    [
+     1862.0,
+     1060.0
+    ],
+    [
+     606.0,
+     1056.0
+    ],
+    [
+     736.0,
+     252.5
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "factors": {
+  "distortion": "none"
+ },
+ "provenance": {
+  "corners.clicked": "the owner, by hand (~/.cache/maze-photos/annotations.json)"
+ }
+}

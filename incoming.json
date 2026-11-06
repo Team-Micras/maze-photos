@@ -1,0 +1,1359 @@
+[
+ {
+  "id": "all-japan-2021-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2021,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=qGgShcWuaLo&t=3660s",
+   "timestamp": 3660,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20220312",
+   "title": "マイクロマウスセミファイナル 第42回 全日本マイクロマウス大会 Micromouse 2021 Micromouse Semifinal"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    595.0,
+    98.5
+   ],
+   [
+    1584.0,
+    18.5
+   ],
+   [
+    1862.0,
+    899.0
+   ],
+   [
+    493.5,
+    1002.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.179,
+  "nextBest": 0.15,
+  "nextBestFiles": [
+   "classic/portugal-2017-final-expert.txt"
+  ],
+  "bestGuess": [
+   "classic/uk2025-megacon-b.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 65.6,
+  "gridSize": 16,
+  "notes": "",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2025-final-1",
+  "mazeFiles": [
+   "classic/Portugal-2025-Final.txt"
+  ],
+  "competition": "Portugal",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=pht9-K8rEWk&t=11460s",
+   "timestamp": 11460,
+   "channel": "OPRobots",
+   "channelUrl": "https://www.youtube.com/channel/UCmjFUXLY4QMkBh4nwuYOlbw",
+   "uploadDate": "20251108",
+   "title": "MicroMouse Portugese Contest 2025 | Directo de las Competiciones"
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    535.0,
+    169.0
+   ],
+   [
+    1382.5,
+    200.0
+   ],
+   [
+    1777.0,
+    831.0
+   ],
+   [
+    175.0,
+    776.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.439,
+  "nextBest": 0.183,
+  "nextBestFiles": [
+   "classic/loop.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 61.0,
+  "gridSize": 16,
+  "notes": "",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2025-final-2",
+  "mazeFiles": [
+   "classic/Portugal-2025-Final.txt"
+  ],
+  "competition": "Portugal",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=pht9-K8rEWk&t=17460s",
+   "timestamp": 17460,
+   "channel": "OPRobots",
+   "channelUrl": "https://www.youtube.com/channel/UCmjFUXLY4QMkBh4nwuYOlbw",
+   "uploadDate": "20251108",
+   "title": "MicroMouse Portugese Contest 2025 | Directo de las Competiciones"
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    538.0,
+    176.0
+   ],
+   [
+    1379.0,
+    200.0
+   ],
+   [
+    1786.0,
+    828.0
+   ],
+   [
+    174.0,
+    783.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.445,
+  "nextBest": 0.178,
+  "nextBestFiles": [
+   "classic/loop.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 61.1,
+  "gridSize": 16,
+  "notes": "",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2025-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "Portugal",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=pht9-K8rEWk&t=7260s",
+   "timestamp": 7260,
+   "channel": "OPRobots",
+   "channelUrl": "https://www.youtube.com/channel/UCmjFUXLY4QMkBh4nwuYOlbw",
+   "uploadDate": "20251108",
+   "title": "MicroMouse Portugese Contest 2025 | Directo de las Competiciones"
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    538.5,
+    164.0
+   ],
+   [
+    1388.0,
+    202.0
+   ],
+   [
+    1770.0,
+    820.0
+   ],
+   [
+    178.5,
+    799.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.441,
+  "nextBest": 0.311,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": [
+   "classic/apec2025.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 60.9,
+  "gridSize": 16,
+  "notes": "Qualifier/test spiral maze, not in mazefiles (transcribable).",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2019-final-expert-1",
+  "mazeFiles": [
+   "classic/portugal-2019-final-expert.txt"
+  ],
+  "competition": "Portugal",
+  "year": 2019,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=p8TVc47K6xA&t=100s",
+   "timestamp": 100,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20190503",
+   "title": "Portugal 2019 MicroMouse. Peter Harrison fast runs. first prize"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1661.5,
+    761.6
+   ],
+   [
+    585.4,
+    878.5
+   ],
+   [
+    709.1,
+    446.0
+   ],
+   [
+    1271.8,
+    399.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "likely",
+  "score": 0.253,
+  "nextBest": 0.245,
+  "nextBestFiles": [
+   "classic/portugal-2019-final-novice.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 41.1,
+  "gridSize": 16,
+  "notes": "",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2023-1",
+  "mazeFiles": [
+   "classic/portugal-2023.txt"
+  ],
+  "competition": "Portugal",
+  "year": 2023,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=0BzBSSbMrGA&t=578s",
+   "timestamp": 578,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20230603",
+   "title": "The 8th Portuguese Micromouse Contest 2023 in Amarante."
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1317.7,
+    514.3
+   ],
+   [
+    1196.9,
+    954.6
+   ],
+   [
+    202.6,
+    755.0
+   ],
+   [
+    676.7,
+    445.1
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.49,
+  "nextBest": 0.479,
+  "nextBestFiles": [
+   "classic/apec2002-2002.txt",
+   "classic/japan2018.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 41.9,
+  "gridSize": 16,
+  "notes": "Verified by eye: overlay follows every wall. nextBest files (apec2002-2002, japan2018) score almost the same, probably near-identical layouts.",
+  "reviewed": false
+ },
+ {
+  "id": "oshwdem-2025-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "OSHWDem",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=VTbcaqSfveM&t=1800s",
+   "timestamp": 1800,
+   "channel": "OPRobots",
+   "channelUrl": "https://www.youtube.com/channel/UCmjFUXLY4QMkBh4nwuYOlbw",
+   "uploadDate": "20251115",
+   "title": "OSHWDem 2025 | Directo de las Competiciones y Charla \"Primeros Pasos en un Robot de MicroMouse\""
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    508.0,
+    159.5
+   ],
+   [
+    1406.0,
+    167.0
+   ],
+   [
+    1875.0,
+    862.5
+   ],
+   [
+    62.0,
+    844.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.357,
+  "nextBest": 0.323,
+  "nextBestFiles": [
+   "classic/loop.txt"
+  ],
+  "bestGuess": [
+   "classic/portugal-2017-final-expert.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 68.2,
+  "gridSize": 16,
+  "notes": "Maze not in mazefiles (best file portugal-2017-final-expert is clearly wrong by overlay). Clean wide view, no occlusion.",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2022-1",
+  "mazeFiles": [
+   "classic/portugal-2022.txt"
+  ],
+  "competition": "Portugal",
+  "year": 2022,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=oA8R3rHkQ8I&t=110s",
+   "timestamp": 110,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20220607",
+   "title": "Highlights Portugal 2022"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1822.9,
+    955.8
+   ],
+   [
+    -73.5,
+    1019.7
+   ],
+   [
+    416.0,
+    491.6
+   ],
+   [
+    1361.1,
+    462.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.359,
+  "nextBest": 0.183,
+  "nextBestFiles": [
+   "classic/loop.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 66.2,
+  "gridSize": 16,
+  "notes": "SW corner lies just outside the frame (extrapolated).",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2018-final-expert-1",
+  "mazeFiles": [
+   "classic/portugal-2018-final-expert.txt"
+  ],
+  "competition": "Portugal",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=LiN9N5vy86Y&t=256s",
+   "timestamp": 256,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20181004",
+   "title": "Micromouse Portuguese Contest Gondomar 2018"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1500.7,
+    39.3
+   ],
+   [
+    2003.9,
+    700.6
+   ],
+   [
+    -70.4,
+    703.0
+   ],
+   [
+    515.7,
+    36.1
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.473,
+  "nextBest": 0.127,
+  "nextBestFiles": [
+   "classic/uknov2016f.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 74.7,
+  "gridSize": 16,
+  "notes": "Two corners lie just outside the frame (extrapolated).",
+  "reviewed": false
+ },
+ {
+  "id": "portugal-2018-final-expert-2",
+  "mazeFiles": [
+   "classic/portugal-2018-final-expert.txt"
+  ],
+  "competition": "Portugal",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=v9Cy0aPisBo&t=160s",
+   "timestamp": 160,
+   "channel": "Antonio Valente",
+   "channelUrl": "https://www.youtube.com/channel/UCtK-aQfztCjP434ZbfXyDJQ",
+   "uploadDate": "20180522",
+   "title": "Micromouse Portuguese Contest 2018"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1091.1,
+    798.5
+   ],
+   [
+    174.0,
+    532.2
+   ],
+   [
+    902.3,
+    372.3
+   ],
+   [
+    1682.6,
+    444.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "likely",
+  "score": 0.208,
+  "nextBest": 0.138,
+  "nextBestFiles": [
+   "classic/uknov2015f.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 49.6,
+  "gridSize": 16,
+  "notes": "Low oblique, whole maze visible. Fit is approximate at the far rows because of the low angle.",
+  "reviewed": false
+ },
+ {
+  "id": "other-world85fin-1985-4",
+  "mazeFiles": [
+   "classic/other-world85fin-1985.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2022,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=XrY0hPT8_MA&t=7200s",
+   "timestamp": 7200,
+   "channel": "全日本マイクロマウス大会実行委員会",
+   "channelUrl": "https://www.youtube.com/channel/UCZUAylFL6YhlRUmtQzq4twg",
+   "uploadDate": "20230219",
+   "title": "第43回全日本マイクロマウス大会（クラシックA競技台）"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    806.4,
+    658.9
+   ],
+   [
+    -16.7,
+    644.5
+   ],
+   [
+    74.1,
+    35.6
+   ],
+   [
+    660.2,
+    40.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.53,
+  "nextBest": 0.275,
+  "nextBestFiles": [
+   "classic/long.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 41.6,
+  "gridSize": 16,
+  "notes": "43rd All Japan, classic A court; wide-angle distortion, left edge slightly cropped. Matched a maze file other than the expected one for this contest and year (a reused maze).",
+  "reviewed": false
+ },
+ {
+  "id": "all-japan-2022-classic-unknown-1",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2022,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=s-xgF7ZeM2M&t=2100s",
+   "timestamp": 2100,
+   "channel": "全日本マイクロマウス大会実行委員会",
+   "channelUrl": "https://www.youtube.com/channel/UCZUAylFL6YhlRUmtQzq4twg",
+   "uploadDate": "20230219",
+   "title": "第４３回全日本マイクロマウス大会（マイクロマウス セミファイナル）"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    480.0,
+    18.0
+   ],
+   [
+    805.0,
+    313.0
+   ],
+   [
+    398.0,
+    670.0
+   ],
+   [
+    57.0,
+    243.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.138,
+  "nextBest": 0.111,
+  "nextBestFiles": [
+   "classic/alljapan-007-1986-fin.txt"
+  ],
+  "bestGuess": [
+   "classic/long.txt"
+  ],
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 31.3,
+  "gridSize": 16,
+  "notes": "43rd All Japan semifinal, rotated about 45 degrees.",
+  "reviewed": false
+ },
+ {
+  "id": "all-japan-2022-halfsize-unknown-1",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2022,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=9PzA8B9_w3Y&t=1800s",
+   "timestamp": 1800,
+   "channel": "全日本マイクロマウス大会実行委員会",
+   "channelUrl": "https://www.youtube.com/channel/UCZUAylFL6YhlRUmtQzq4twg",
+   "uploadDate": "20230219",
+   "title": "第43回全日本マイクロマウス大会（マイクロマウス競技ファイナル）"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    14.0,
+    22.0
+   ],
+   [
+    678.0,
+    42.0
+   ],
+   [
+    668.0,
+    636.0
+   ],
+   [
+    2.0,
+    646.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.028,
+  "nextBest": 0.018,
+  "nextBestFiles": [
+   "halfsize/japan2018hef.txt"
+  ],
+  "bestGuess": [
+   "halfsize/japan2015hef.txt"
+  ],
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 19.9,
+  "gridSize": 32,
+  "notes": "43rd All Japan final, half-size maze; strong wide-angle distortion.",
+  "reviewed": false
+ },
+ {
+  "id": "japan2018-3",
+  "mazeFiles": [
+   "classic/apec2002-2002.txt",
+   "classic/japan2018.txt",
+   "classic/uknov2011f.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2018,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=A-Qm-Shsadc&t=120s",
+   "timestamp": 120,
+   "channel": "Naophis",
+   "channelUrl": "https://www.youtube.com/channel/UCQEo1sEQnoBvonwpm0O-IuQ",
+   "uploadDate": "20191223",
+   "title": "ExiaAlter(All Japan Micromouse Competition 2018. 1st prize)"
+  },
+  "licence": "CC-BY",
+  "corners": [
+   [
+    130.0,
+    806.2
+   ],
+   [
+    458.8,
+    98.3
+   ],
+   [
+    1467.1,
+    105.3
+   ],
+   [
+    1716.6,
+    834.0
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 270,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.579,
+  "nextBest": 0.566,
+  "nextBestFiles": [
+   "classic/uknov2011q.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 64.8,
+  "gridSize": 16,
+  "notes": "39th All Japan, Naophis ExiaAlter run video (fixed wide camera). Verified by eye: overlay follows every wall. nextBest apec2002-2002 is a near-identical layout (same maze reused).",
+  "reviewed": false
+ },
+ {
+  "id": "uk2026-spring-classic-3",
+  "mazeFiles": [
+   "classic/uk2026-spring-classic.txt"
+  ],
+  "competition": "UK",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=nat90xEqVzA&t=400s",
+   "timestamp": 400,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20260610",
+   "title": "UKMARS Micromouse  UK final 2026: Record Turnout at Stratford-upon-Avon. repost"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1474.1,
+    1048.0
+   ],
+   [
+    486.5,
+    1046.2
+   ],
+   [
+    534.8,
+    114.3
+   ],
+   [
+    1415.1,
+    106.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.493,
+  "nextBest": 0.16,
+  "nextBestFiles": [
+   "classic/uk2024-megacon-e.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "overhead",
+  "pxPerCell": 58.5,
+  "gridSize": 16,
+  "notes": "UKMARS UK final 2026 (Stratford); overhead replay graphic with on-screen text.",
+  "reviewed": false
+ },
+ {
+  "id": "apec2025-4",
+  "mazeFiles": [
+   "classic/apec2025.txt"
+  ],
+  "competition": "APEC",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=IOPWfE5keek&t=300s",
+   "timestamp": 300,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20250819",
+   "title": "Micromouse Maze‑Solving Showdown  APEC 2025 Atlanta Highlights"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1548.7,
+    249.3
+   ],
+   [
+    1857.9,
+    1060.1
+   ],
+   [
+    603.1,
+    1058.5
+   ],
+   [
+    735.2,
+    251.1
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.515,
+  "nextBest": 0.339,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 58.7,
+  "gridSize": 16,
+  "notes": "Vertical camera pole crosses the maze.",
+  "reviewed": false
+ },
+ {
+  "id": "apec2026-3",
+  "mazeFiles": [
+   "classic/apec2026.txt"
+  ],
+  "competition": "APEC",
+  "year": 2026,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=GggChqiISAw&t=180s",
+   "timestamp": 180,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20260430",
+   "title": "World's Fastest Maze Robots Compete at APEC 2026"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1222.8,
+    500.7
+   ],
+   [
+    1304.5,
+    1023.7
+   ],
+   [
+    208.2,
+    962.3
+   ],
+   [
+    553.7,
+    477.7
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.508,
+  "nextBest": 0.305,
+  "nextBestFiles": [
+   "classic/apec2019.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 45.2,
+  "gridSize": 16,
+  "notes": "Vertical camera pole crosses the maze.",
+  "reviewed": false
+ },
+ {
+  "id": "apec2024-3",
+  "mazeFiles": [
+   "classic/apec2024.txt"
+  ],
+  "competition": "APEC",
+  "year": 2024,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=-0z3v3Sw34A&t=800s",
+   "timestamp": 800,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20240624",
+   "title": "Maze Solving Robots and More | Full APEC 2024 Micromouse Competition"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1085.1,
+    175.1
+   ],
+   [
+    1739.7,
+    761.8
+   ],
+   [
+    642.4,
+    1224.9
+   ],
+   [
+    264.3,
+    395.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 0,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.714,
+  "nextBest": 0.452,
+  "nextBestFiles": [
+   "classic/apec2012.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 59.9,
+  "gridSize": 16,
+  "notes": "Bottom corner at the frame edge (extrapolated); vertical camera pole crosses the maze.",
+  "reviewed": false
+ },
+ {
+  "id": "uk2021-haz-1",
+  "mazeFiles": [
+   "classic/uk2021-haz.txt"
+  ],
+  "competition": "UK",
+  "year": 2021,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=XP80kelwxIU&t=330s",
+   "timestamp": 330,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20211121",
+   "title": "UK Micromouse finals Hazlemere 2021 highlights"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1777.1,
+    961.5
+   ],
+   [
+    143.5,
+    973.7
+   ],
+   [
+    568.8,
+    187.3
+   ],
+   [
+    1355.6,
+    168.8
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.419,
+  "nextBest": 0.146,
+  "nextBestFiles": [
+   "classic/uk1988f.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 65.8,
+  "gridSize": 16,
+  "notes": "Hazlemere, October 2021; person partly occludes the right side.",
+  "reviewed": false
+ },
+ {
+  "id": "uk2025-minos-1",
+  "mazeFiles": [
+   "classic/uk2025-minos.txt"
+  ],
+  "competition": "UK",
+  "year": 2025,
+  "category": "classic",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=1afB7bDnZkU&t=600s",
+   "timestamp": 600,
+   "channel": "MicroMouse",
+   "channelUrl": "https://www.youtube.com/channel/UCacNSpBfgVevUgVmbLDBxtw",
+   "uploadDate": "20260305",
+   "title": "Why Did Every Top Bot Take a Different Route? | Minos 2025 MicroMouse Run Commentary"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    1812.7,
+    1013.0
+   ],
+   [
+    204.8,
+    1024.5
+   ],
+   [
+    524.5,
+    170.3
+   ],
+   [
+    1439.7,
+    162.7
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 180,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.526,
+  "nextBest": 0.162,
+  "nextBestFiles": [
+   "classic/us89.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 68.2,
+  "gridSize": 16,
+  "notes": "Minos 2025; on-screen run captions.",
+  "reviewed": false
+ },
+ {
+  "id": "all-japan-2017-halfsize-unknown-1",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2017,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=3wPDp_qkSsI&t=100s",
+   "timestamp": 100,
+   "channel": "ところたん（ところたん）",
+   "channelUrl": "https://www.youtube.com/channel/UCdDYFRw15IWBWVigv5oGNyA",
+   "uploadDate": "20171202",
+   "title": "Micromouse \"Vert\" - 2017 All Japan Contest Half-size Expert Class Prelim."
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    246.5,
+    512.5
+   ],
+   [
+    885.0,
+    467.0
+   ],
+   [
+    1433.5,
+    702.0
+   ],
+   [
+    723.5,
+    872.5
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.048,
+  "nextBest": 0.021,
+  "nextBestFiles": [
+   "halfsize/japan2016hef.txt"
+  ],
+  "bestGuess": [
+   "halfsize/japan2010hef.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 20.0,
+  "gridSize": 32,
+  "notes": "Half-size expert prelim, 1080p oblique from the side.",
+  "reviewed": false
+ },
+ {
+  "id": "japan2019hef-1",
+  "mazeFiles": [
+   "halfsize/japan2019hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2019,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=oNaWvtee198&t=200s",
+   "timestamp": 200,
+   "channel": "JUING-HUEI",
+   "channelUrl": "https://www.youtube.com/channel/UCAjJRCYYiLTUDGwT662tr9g",
+   "uploadDate": "20191205",
+   "title": "2019 Japan halfsize micromouse 1st prize- Fantom2nd search run, by 松井 祐樹"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    922.9,
+    125.4
+   ],
+   [
+    1956.2,
+    323.8
+   ],
+   [
+    1486.4,
+    928.7
+   ],
+   [
+    9.4,
+    340.5
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.296,
+  "nextBest": 0.07,
+  "nextBestFiles": [
+   "halfsize/japan2012hef.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 34.0,
+  "gridSize": 32,
+  "notes": "Half-size final (Fantom search run); far-right corner off-frame, extrapolated.",
+  "reviewed": false
+ },
+ {
+  "id": "japan2023hef-3",
+  "mazeFiles": [
+   "halfsize/japan2023hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2023,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=l5ES3r-Ugso&t=10000s",
+   "timestamp": 10000,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20240218",
+   "title": "マイクロマウスファイナル 第44回 全日本マイクロマウス大会 Micromouse 2023 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    661.1,
+    41.3
+   ],
+   [
+    1280.1,
+    250.0
+   ],
+   [
+    704.5,
+    795.2
+   ],
+   [
+    37.8,
+    221.3
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.318,
+  "nextBest": 0.032,
+  "nextBestFiles": [
+   "halfsize/japan2012hef.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 23.2,
+  "gridSize": 32,
+  "notes": "Half-size final 2023 (44th), intermission shot; near corner off-frame, extrapolated.",
+  "reviewed": false
+ },
+ {
+  "id": "all-japan-2025-halfsize-unknown-1",
+  "mazeFiles": [],
+  "competition": "All Japan",
+  "year": 2025,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=pVBAGXl68LQ&t=11000s",
+   "timestamp": 11000,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20260222",
+   "title": "マイクロマウスファイナル 第46回 全日本マイクロマウス大会 Micromouse 2025 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    100.0,
+    452.0
+   ],
+   [
+    888.0,
+    178.0
+   ],
+   [
+    1715.0,
+    385.0
+   ],
+   [
+    1130.0,
+    1078.0
+   ]
+  ],
+  "cornersOrder": "TL,TR,BR,BL (photo order, rough)",
+  "orientation": null,
+  "match": "unknown",
+  "score": 0.051,
+  "nextBest": 0.037,
+  "nextBestFiles": [
+   "halfsize/japan2013hef.txt"
+  ],
+  "bestGuess": [
+   "halfsize/japan2024hef.txt"
+  ],
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 29.7,
+  "gridSize": 32,
+  "notes": "Half-size final 2025 (46th), unknown maze (no japan2025hef file); near corner off-frame, extrapolated.",
+  "reviewed": false
+ },
+ {
+  "id": "japan2021hef-3",
+  "mazeFiles": [
+   "halfsize/japan2021hef.txt"
+  ],
+  "competition": "All Japan",
+  "year": 2021,
+  "category": "halfsize",
+  "source": {
+   "type": "youtube",
+   "url": "https://www.youtube.com/watch?v=1yv3xGaN2JA&t=3200s",
+   "timestamp": 3200,
+   "channel": "NVS",
+   "channelUrl": "https://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg",
+   "uploadDate": "20220312",
+   "title": "マイクロマウスファイナル 第42回 全日本マイクロマウス大会 Micromouse 2021 Micromouse Final"
+  },
+  "licence": "reference-only",
+  "corners": [
+   [
+    984.7,
+    67.2
+   ],
+   [
+    1897.7,
+    337.0
+   ],
+   [
+    1148.8,
+    1114.5
+   ],
+   [
+    88.0,
+    326.3
+   ]
+  ],
+  "cornersOrder": "NW,NE,SE,SW (file order)",
+  "orientation": {
+   "rotation": 90,
+   "mirror": false
+  },
+  "match": "confirmed",
+  "score": 0.357,
+  "nextBest": 0.066,
+  "nextBestFiles": [
+   "halfsize/japan2019hef.txt"
+  ],
+  "bestGuess": null,
+  "nearIdentical": [],
+  "view": "oblique",
+  "pxPerCell": 33.5,
+  "gridSize": 32,
+  "notes": "Half-size final 2021 (42nd), wide lens, near corner off-frame, extrapolated.",
+  "reviewed": false
+ }
+]

@@ -1,0 +1,49 @@
+{
+ "schema": "maze-label/1",
+ "id": "uk-spring-2025-classic-3",
+ "image": {
+  "file": "../../maze-photos/frames/uk-spring-2025-classic-3.jpg",
+  "sha256": "ea020081a5a66ead886315773844964acfdadaa09a2c0475d23c2e37307a0971",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/uk2025-spring-classic.txt",
+  "size": 16
+ },
+ "corners": {
+  "clicked": {
+   "image": [
+    [
+     369.0,
+     943.0
+    ],
+    [
+     574.0,
+     118.5
+    ],
+    [
+     1462.5,
+     95.5
+    ],
+    [
+     1849.5,
+     893.0
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "factors": {
+  "distortion": "none"
+ },
+ "provenance": {
+  "corners.clicked": "the owner, by hand (~/.cache/maze-photos/annotations.json)"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "schema": "maze-label/1",
+ "id": "alljapan-2025-classic-2",
+ "image": {
+  "file": "../../maze-photos/frames/alljapan-2025-classic-2.jpg",
+  "sha256": "8b86b88435c161c42a2694e0c37ca30fbb7fd1bd2dc23279b5f12db2362b6b74",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/alljapan-046-2025-exp-fin.txt",
+  "size": 16
+ },
+ "corners": {
+  "clicked": {
+   "image": [
+    [
+     900.0,
+     115.0
+    ],
+    [
+     1817.0,
+     181.0
+    ],
+    [
+     1199.0,
+     940.0
+    ],
+    [
+     144.0,
+     545.0
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "factors": {
+  "distortion": "none"
+ },
+ "provenance": {
+  "corners.clicked": "the owner, by hand (~/.cache/maze-photos/annotations.json)"
+ }
+}

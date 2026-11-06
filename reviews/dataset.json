@@ -1,0 +1,198 @@
+{
+ "apec2024-1": {
+  "verdict": "ok"
+ },
+ "apec2024-2": {
+  "verdict": "ok"
+ },
+ "alljapan-045-2024-exp-fin-1": {
+  "verdict": "ok"
+ },
+ "alljapan-045-2024-exp-fin-2": {
+  "verdict": "ok"
+ },
+ "japan2023hef-1": {
+  "verdict": "ok",
+  "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+ },
+ "japan2023hef-2": {
+  "verdict": "ok",
+  "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+ },
+ "alljapan-046-2025-exp-fin-1": {
+  "verdict": "ok"
+ },
+ "alljapan-046-2025-exp-fin-2": {
+  "verdict": "ok"
+ },
+ "alljapan-046-2025-exp-fin-3": {
+  "verdict": "ok"
+ },
+ "apec2025-1": {
+  "verdict": "ok"
+ },
+ "apec2025-2": {
+  "verdict": "ok"
+ },
+ "apec2025-3": {
+  "verdict": "ok"
+ },
+ "apec2026-1": {
+  "verdict": "ok"
+ },
+ "apec2026-2": {
+  "verdict": "ok"
+ },
+ "br2026-rcx-day2-1": {
+  "verdict": "ok"
+ },
+ "br2026-rcx-day2-2": {
+  "verdict": "ok"
+ },
+ "br2026-rcx-day2-3": {
+  "verdict": "ok"
+ },
+ "br2026-rcx-day1-1": {
+  "verdict": "ok"
+ },
+ "br2025-robochallenge-day2-1": {
+  "verdict": "ok"
+ },
+ "br2025-robochallenge-day2-2": {
+  "verdict": "ok"
+ },
+ "uk2025-spring-classic-1": {
+  "verdict": "ok"
+ },
+ "uk2025-spring-classic-2": {
+  "verdict": "ok"
+ },
+ "uk2025-spring-classic-3": {
+  "verdict": "ok"
+ },
+ "uk2026-spring-classic-1": {
+  "verdict": "ok"
+ },
+ "uk2026-spring-classic-2": {
+  "verdict": "ok"
+ },
+ "alljapan-044-2023-exp-fin-1": {
+  "verdict": "ok"
+ },
+ "alljapan-044-2023-exp-fin-2": {
+  "verdict": "ok"
+ },
+ "japan2024hef-1": {
+  "verdict": "ok",
+  "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem"
+ },
+ "other-world85fin-1985-1": {
+  "verdict": "ok"
+ },
+ "other-world85fin-1985-2": {
+  "verdict": "ok"
+ },
+ "other-world85fin-1985-3": {
+  "verdict": "ok"
+ },
+ "japan2019-1": {
+  "verdict": "ok"
+ },
+ "japan2019-2": {
+  "verdict": "ok"
+ },
+ "japan2019-3": {
+  "verdict": "ok"
+ },
+ "japan2021hef-1": {
+  "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda na quina do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem",
+  "verdict": "ok"
+ },
+ "japan2021hef-2": {
+  "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda na quina do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem",
+  "verdict": "ok"
+ },
+ "japan2018-1": {
+  "verdict": "ok"
+ },
+ "japan2018-2": {
+  "verdict": "ok"
+ },
+ "all-japan-2019-classic-unknown-2": {
+  "comment": "no canto inferiror direito tem umas paredes retiradas e sobre o tabuleiro, entao nao acho que seja uma boa imagem. as laterais esquerda, cima e baixo estao ok, mas a lateral direita está bem errado (muito pra direita)"
+ },
+ "all-japan-2019-classic-unknown-1": {
+  "comment": "as laterais esquerda, cima e baixo estao ok, mas a lateral direita está bem errado (muito pra direita)"
+ },
+ "japan2016-ef-1": {
+  "verdict": "ok",
+  "comment": "os corners da imagem nao estao bem marcados, entao os tracos verdes acabam nao coincidindo bem com as paredes reais da imagem"
+ },
+ "japan2016-ef-2": {
+  "verdict": "ok",
+  "comment": "os corners da imagem nao estao bem marcados, entao os tracos verdes acabam nao coincidindo bem com as paredes reais da imagem"
+ },
+ "all-japan-2017-classic-unknown-1": {
+  "comment": "as laterais estao bem encaixadas com as laterais externas do labirinto real"
+ },
+ "all-japan-2017-classic-unknown-2": {
+  "comment": "as laterais estao bem encaixadas com as laterais externas do labirinto real"
+ },
+ "oshwdem2018-1": {
+  "verdict": "ok"
+ },
+ "oshwdem2018-2": {
+  "verdict": "ok"
+ },
+ "oshwdem2018-3": {
+  "verdict": "ok"
+ },
+ "br2024-robochallenge-day1-1": {
+  "verdict": "ok"
+ },
+ "br2024-robochallenge-day1-2": {
+  "verdict": "ok"
+ },
+ "br2024-robochallenge-day1-3": {
+  "verdict": "ok"
+ },
+ "br2025-robochallenge-day1-1": {
+  "verdict": "ok"
+ },
+ "camm2019-1": {
+  "verdict": "ok",
+  "comment": "Está correto, mas a imagem está muito distorcida (fisheye) entao o tracado verde encaixa pouco sobre as paredes reais da imagem"
+ },
+ "chubu-japan-2026-classic-unknown-3": {
+  "comment": "as laterais estao com um encaixe ok com as laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem"
+ },
+ "uk-2025-classic-unknown-1": {
+  "comment": "as laterais estao com um encaixe ok nas laterais esquerda, superior e direita em relacao às laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem. porém a lateral inferior está bem errada, está muito pra cima, diria que principalmente pq a parte inferiror do labirinto está um pouco cortada"
+ },
+ "uk-2025-classic-unknown-2": {
+  "comment": "as laterais estao com um encaixe ok nas laterais esquerda e superior em relacao às laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem. porém a lateral inferior está bem errada, está muito pra cima, diria que principalmente pq a parte inferiror do labirinto está um pouco cortada. nessa foto a lateral direita também está errada, a quina direita inferior está muito pra direita "
+ },
+ "uk-2025-classic-unknown-3": {
+  "comment": "as laterais estao com um encaixe ok nas laterais esquerda e superior em relacao às laterais externas do labirinto real, nao está otimo pois a imagem está distorcida (fisheye) entao as paredes externas estao um pouco curvadas na imagem. porém a lateral inferior está bem errada, está muito pra cima, diria que principalmente pq a parte inferiror do labirinto está um pouco cortada. nessa foto a lateral direita também está errada, a quina direita inferior está muito pra direita "
+ },
+ "japan2015-ef-1": {
+  "verdict": "ok"
+ },
+ "japan2015-ef-2": {
+  "verdict": "ok"
+ },
+ "apec2019-1": {
+  "comment": "Está correto, mas a imagem está muito distorcida (fisheye) entao o tracado verde encaixa pouco sobre as paredes reais da imagem",
+  "verdict": "ok"
+ },
+ "apec-2017-classic-unknown-1": {
+  "comment": "as laterais estao com um encaixe ruim com as laterais externas do labirinto real, nao está otimo pois a imagem está muito distorcida (fisheye) entao as paredes externas estao um bem curvadas na imagem. "
+ },
+ "apec-2017-classic-unknown-2": {
+  "comment": "as laterais estao com um encaixe ruim com as laterais externas do labirinto real, nao está otimo pois a imagem está muito distorcida (fisheye) entao as paredes externas estao um bem curvadas na imagem. "
+ },
+ "apec2016-1": {
+  "comment": "está correto, mas a imagem está um pouco distorcida entao a parte esqueda, direita e inferior nas quinas do labirinto o tracado verde nao está coincidindo tao bem com as paredes da imagem. além disso as quinas Sw, Se e Ne nao estao bem posicionadas",
+  "verdict": "ok"
+ }
+}

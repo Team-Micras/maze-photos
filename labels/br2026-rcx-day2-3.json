@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "br2026-rcx-day2-3",
+ "image": {
+  "file": "../frames/br2026-rcx-day2-3.jpg",
+  "sha256": "f548fa164d0ebdd15421143c3ff639b0b76dd82b009d52c720994729f9ca46f1",
+  "width": 848,
+  "height": 478
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/br2026-rcx-day2.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     256.5,
+     55.5
+    ],
+    [
+     598.8,
+     61.7
+    ],
+    [
+     735.2,
+     430.3
+    ],
+    [
+     102.7,
+     419.8
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     256.1,
+     54.5
+    ],
+    [
+     599.0,
+     60.9
+    ],
+    [
+     735.9,
+     431.3
+    ],
+    [
+     102.4,
+     418.6
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  21.349302116041677,
+  -12.522528907166262,
+  256.3127682355922,
+  0.38982491131032243,
+  10.750859063088305,
+  54.73566497895766,
+  -9.113041572322042e-05,
+  -0.02861090818899821,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": 0.004048092623350041,
+  "centre": [
+   424.0,
+   239.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "oblique",
+  "pxPerCell": 27.6
+ },
+ "provenance": {
+  "source": "sources/rcx-owner.mp4#t=6.5",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

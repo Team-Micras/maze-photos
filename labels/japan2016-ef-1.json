@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "japan2016-ef-1",
+ "image": {
+  "file": "../frames/japan2016-ef-1.jpg",
+  "sha256": "511abbe86c21e2055ce736f40103e0e15afbeb0715bd65dea7776384b8185909",
+  "width": 640,
+  "height": 360
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/japan2016-ef.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     541.8,
+     314.2
+    ],
+    [
+     112.5,
+     303.0
+    ],
+    [
+     168.4,
+     13.3
+    ],
+    [
+     491.2,
+     15.6
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     536.6,
+     310.0
+    ],
+    [
+     114.5,
+     301.5
+    ],
+    [
+     167.4,
+     13.4
+    ],
+    [
+     490.0,
+     14.8
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  -26.63922023494639,
+  6.7131454702894855,
+  540.3142442938652,
+  -0.08429729605914225,
+  -18.50440279173038,
+  312.26538074451713,
+  0.0015589080356644847,
+  0.01968524942923387,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": -0.03465235577408292,
+  "centre": [
+   320.0,
+   180.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "overhead",
+  "pxPerCell": 21.1
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=XPqlBQ-gS8A&t=8520s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

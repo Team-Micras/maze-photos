@@ -1,0 +1,49 @@
+{
+ "schema": "maze-label/1",
+ "id": "robochallenge-br-2025-classic-2",
+ "image": {
+  "file": "../../maze-photos/frames/robochallenge-br-2025-classic-2.jpg",
+  "sha256": "9b6c796240ec32cb19c9aaae3ff120480953fdb86884fca8e626762a618332f0",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/br2025-robochallenge-day2.txt",
+  "size": 16
+ },
+ "corners": {
+  "clicked": {
+   "image": [
+    [
+     556.0,
+     144.0
+    ],
+    [
+     1368.0,
+     154.0
+    ],
+    [
+     1912.5,
+     904.0
+    ],
+    [
+     35.0,
+     927.0
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "factors": {
+  "distortion": "none"
+ },
+ "provenance": {
+  "corners.clicked": "the owner, by hand (~/.cache/maze-photos/annotations.json)"
+ }
+}

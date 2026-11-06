@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "br2025-robochallenge-day2-1",
+ "image": {
+  "file": "../frames/br2025-robochallenge-day2-1.jpg",
+  "sha256": "6a39102e0ec067e9d26f36e37f606dbfa3cd797c9b38f2b4d1346a4d2ec7da41",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/br2025-robochallenge-day2.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     562.5,
+     134.0
+    ],
+    [
+     1376.5,
+     152.0
+    ],
+    [
+     1915.0,
+     910.0
+    ],
+    [
+     31.5,
+     917.5
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     561.7,
+     132.3
+    ],
+    [
+     1376.1,
+     151.1
+    ],
+    [
+     1913.6,
+     908.3
+    ],
+    [
+     29.5,
+     916.8
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  53.41747465387063,
+  -34.30216057390614,
+  561.9420341386841,
+  1.4554796528434573,
+  16.012198957810448,
+  132.4702279262598,
+  0.0018516415871015688,
+  -0.03598631230966938,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": 0.0018317573740509574,
+  "centre": [
+   960.0,
+   540.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "oblique",
+  "pxPerCell": 71.5
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=A_WFLTaZ7R4&t=2s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

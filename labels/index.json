@@ -1,0 +1,641 @@
+{
+ "lockedEvents": {
+  "seed": 20261105,
+  "share": 0.3,
+  "from": "held-out events that no tuning frame shares",
+  "events": [
+   "classic/alljapan-045-2024-exp-fin.txt",
+   "classic/apec2019.txt",
+   "classic/japan2015-ef.txt",
+   "classic/other-world85fin-1985.txt",
+   "halfsize/japan2024hef.txt"
+  ]
+ },
+ "frames": {
+  "apec2024-1": {
+   "split": "heldout",
+   "event": "classic/apec2024.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "apec2024-2": {
+   "split": "heldout",
+   "event": "classic/apec2024.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-045-2024-exp-fin-1": {
+   "split": "heldout",
+   "event": "classic/alljapan-045-2024-exp-fin.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-045-2024-exp-fin-2": {
+   "split": "heldout",
+   "event": "classic/alljapan-045-2024-exp-fin.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2023hef-1": {
+   "split": "heldout",
+   "event": "halfsize/japan2023hef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "est\u00e1 correto, mas a imagem est\u00e1 um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao est\u00e1 coincidindo tao bem com as paredes da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "japan2023hef-2": {
+   "split": "heldout",
+   "event": "halfsize/japan2023hef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "est\u00e1 correto, mas a imagem est\u00e1 um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao est\u00e1 coincidindo tao bem com as paredes da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-046-2025-exp-fin-1": {
+   "split": "tuning-dataset",
+   "event": "classic/alljapan-046-2025-exp-fin.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-046-2025-exp-fin-2": {
+   "split": "tuning-dataset",
+   "event": "classic/alljapan-046-2025-exp-fin.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-046-2025-exp-fin-3": {
+   "split": "tuning-dataset",
+   "event": "classic/alljapan-046-2025-exp-fin.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "apec2025-1": {
+   "split": "tuning-dataset",
+   "event": "classic/apec2025.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "apec2025-2": {
+   "split": "tuning-dataset",
+   "event": "classic/apec2025.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "apec2025-3": {
+   "split": "tuning-dataset",
+   "event": "classic/apec2025.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "apec2026-1": {
+   "split": "tuning-dataset",
+   "event": "classic/apec2026.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "apec2026-2": {
+   "split": "tuning-dataset",
+   "event": "classic/apec2026.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "br2026-rcx-day2-1": {
+   "split": "tuning-dataset",
+   "event": "classic/br2026-rcx-day2.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "owner"
+  },
+  "br2026-rcx-day2-2": {
+   "split": "tuning-dataset",
+   "event": "classic/br2026-rcx-day2.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "owner"
+  },
+  "br2026-rcx-day2-3": {
+   "split": "tuning-dataset",
+   "event": "classic/br2026-rcx-day2.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "owner"
+  },
+  "br2026-rcx-day1-1": {
+   "split": "tuning-dataset",
+   "event": "classic/br2026-rcx-day1.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "owner"
+  },
+  "br2025-robochallenge-day2-1": {
+   "split": "tuning-dataset",
+   "event": "classic/br2025-robochallenge-day2.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "br2025-robochallenge-day2-2": {
+   "split": "tuning-dataset",
+   "event": "classic/br2025-robochallenge-day2.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "uk2025-spring-classic-1": {
+   "split": "tuning-dataset",
+   "event": "classic/uk2025-spring-classic.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "uk2025-spring-classic-2": {
+   "split": "tuning-dataset",
+   "event": "classic/uk2025-spring-classic.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "uk2025-spring-classic-3": {
+   "split": "tuning-dataset",
+   "event": "classic/uk2025-spring-classic.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "uk2026-spring-classic-1": {
+   "split": "tuning-dataset",
+   "event": "classic/uk2026-spring-classic.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "uk2026-spring-classic-2": {
+   "split": "tuning-dataset",
+   "event": "classic/uk2026-spring-classic.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-044-2023-exp-fin-1": {
+   "split": "heldout",
+   "event": "classic/alljapan-044-2023-exp-fin.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-044-2023-exp-fin-2": {
+   "split": "heldout",
+   "event": "classic/alljapan-044-2023-exp-fin.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2024hef-1": {
+   "split": "heldout",
+   "event": "halfsize/japan2024hef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "est\u00e1 correto, mas a imagem est\u00e1 um pouco distorcida entao a parte esqueda e direita nas duas quinas do labirinto o tracado verde nao est\u00e1 coincidindo tao bem com as paredes da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "other-world85fin-1985-1": {
+   "split": "heldout",
+   "event": "classic/other-world85fin-1985.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "other-world85fin-1985-2": {
+   "split": "heldout",
+   "event": "classic/other-world85fin-1985.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "other-world85fin-1985-3": {
+   "split": "heldout",
+   "event": "classic/other-world85fin-1985.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2019-1": {
+   "split": "heldout",
+   "event": "classic/japan2019.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2019-2": {
+   "split": "heldout",
+   "event": "classic/japan2019.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2019-3": {
+   "split": "heldout",
+   "event": "classic/japan2019.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2021hef-1": {
+   "split": "heldout",
+   "event": "halfsize/japan2021hef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "est\u00e1 correto, mas a imagem est\u00e1 um pouco distorcida entao a parte esqueda na quina do labirinto o tracado verde nao est\u00e1 coincidindo tao bem com as paredes da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "japan2021hef-2": {
+   "split": "heldout",
+   "event": "halfsize/japan2021hef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "est\u00e1 correto, mas a imagem est\u00e1 um pouco distorcida entao a parte esqueda na quina do labirinto o tracado verde nao est\u00e1 coincidindo tao bem com as paredes da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "japan2018-1": {
+   "split": "heldout",
+   "event": "classic/apec2002-2002.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2018-2": {
+   "split": "heldout",
+   "event": "classic/apec2002-2002.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2016-ef-1": {
+   "split": "heldout",
+   "event": "classic/japan2016-ef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "os corners da imagem nao estao bem marcados, entao os tracos verdes acabam nao coincidindo bem com as paredes reais da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "japan2016-ef-2": {
+   "split": "heldout",
+   "event": "classic/japan2016-ef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "os corners da imagem nao estao bem marcados, entao os tracos verdes acabam nao coincidindo bem com as paredes reais da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "oshwdem2018-1": {
+   "split": "heldout",
+   "event": "classic/oshwdem2018.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "CC-BY"
+  },
+  "oshwdem2018-2": {
+   "split": "heldout",
+   "event": "classic/oshwdem2018.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "CC-BY"
+  },
+  "oshwdem2018-3": {
+   "split": "heldout",
+   "event": "classic/oshwdem2018.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "CC-BY"
+  },
+  "br2024-robochallenge-day1-1": {
+   "split": "heldout",
+   "event": "classic/br2024-robochallenge-day1.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "br2024-robochallenge-day1-2": {
+   "split": "heldout",
+   "event": "classic/br2024-robochallenge-day1.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "br2024-robochallenge-day1-3": {
+   "split": "heldout",
+   "event": "classic/br2024-robochallenge-day1.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "br2025-robochallenge-day1-1": {
+   "split": "heldout",
+   "event": "classic/br2025-robochallenge-day1.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "camm2019-1": {
+   "split": "heldout",
+   "event": "classic/camm2019.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "Est\u00e1 correto, mas a imagem est\u00e1 muito distorcida (fisheye) entao o tracado verde encaixa pouco sobre as paredes reais da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "japan2015-ef-1": {
+   "split": "heldout",
+   "event": "classic/japan2015-ef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "japan2015-ef-2": {
+   "split": "heldout",
+   "event": "classic/japan2015-ef.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok"
+   },
+   "licence": "reference-only"
+  },
+  "apec2019-1": {
+   "split": "heldout",
+   "event": "classic/apec2019.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "Est\u00e1 correto, mas a imagem est\u00e1 muito distorcida (fisheye) entao o tracado verde encaixa pouco sobre as paredes reais da imagem"
+   },
+   "licence": "reference-only"
+  },
+  "apec2016-1": {
+   "split": "heldout",
+   "event": "classic/apec2016.txt",
+   "match": "confirmed",
+   "review": {
+    "reviewedBy": "owner",
+    "verdict": "ok",
+    "comment": "est\u00e1 correto, mas a imagem est\u00e1 um pouco distorcida entao a parte esqueda, direita e inferior nas quinas do labirinto o tracado verde nao est\u00e1 coincidindo tao bem com as paredes da imagem. al\u00e9m disso as quinas Sw, Se e Ne nao estao bem posicionadas"
+   },
+   "licence": "reference-only"
+  },
+  "alljapan-2025-classic-1": {
+   "split": "tuning",
+   "event": "classic/alljapan-046-2025-exp-fin.txt",
+   "match": "confirmed"
+  },
+  "alljapan-2025-classic-2": {
+   "split": "tuning",
+   "event": "classic/alljapan-046-2025-exp-fin.txt",
+   "match": "confirmed"
+  },
+  "alljapan-2025-classic-3": {
+   "split": "tuning",
+   "event": "classic/alljapan-046-2025-exp-fin.txt",
+   "match": "confirmed"
+  },
+  "apec-2025-classic-1": {
+   "split": "tuning",
+   "event": "classic/apec2025.txt",
+   "match": "confirmed"
+  },
+  "apec-2025-classic-2": {
+   "split": "tuning",
+   "event": "classic/apec2025.txt",
+   "match": "confirmed"
+  },
+  "apec-2025-classic-3": {
+   "split": "tuning",
+   "event": "classic/apec2025.txt",
+   "match": "confirmed"
+  },
+  "apec-2026-classic-1": {
+   "split": "tuning",
+   "event": "classic/apec2026.txt",
+   "match": "confirmed"
+  },
+  "apec-2026-classic-2": {
+   "split": "tuning",
+   "event": "classic/apec2026.txt",
+   "match": "confirmed"
+  },
+  "rcx-2026-classic-1": {
+   "split": "tuning",
+   "event": "classic/br2026-rcx-day2.txt",
+   "match": "confirmed"
+  },
+  "rcx-2026-classic-2": {
+   "split": "tuning",
+   "event": "classic/br2026-rcx-day2.txt",
+   "match": "confirmed"
+  },
+  "rcx-2026-classic-3": {
+   "split": "tuning",
+   "event": "classic/br2026-rcx-day2.txt",
+   "match": "confirmed"
+  },
+  "rcx-2026-classic-day1-1": {
+   "split": "tuning",
+   "event": "classic/br2026-rcx-day1.txt",
+   "match": "confirmed"
+  },
+  "robochallenge-br-2025-classic-1": {
+   "split": "tuning",
+   "event": "classic/br2025-robochallenge-day2.txt",
+   "match": "confirmed"
+  },
+  "robochallenge-br-2025-classic-2": {
+   "split": "tuning",
+   "event": "classic/br2025-robochallenge-day2.txt",
+   "match": "confirmed"
+  },
+  "uk-spring-2025-classic-1": {
+   "split": "tuning",
+   "event": "classic/uk2025-spring-classic.txt",
+   "match": "confirmed"
+  },
+  "uk-spring-2025-classic-2": {
+   "split": "tuning",
+   "event": "classic/uk2025-spring-classic.txt",
+   "match": "confirmed"
+  },
+  "uk-spring-2025-classic-3": {
+   "split": "tuning",
+   "event": "classic/uk2025-spring-classic.txt",
+   "match": "confirmed"
+  },
+  "uk-final-2026-classic-1": {
+   "split": "tuning",
+   "event": "classic/uk2026-spring-classic.txt",
+   "match": "likely"
+  },
+  "uk-final-2026-classic-2": {
+   "split": "tuning",
+   "event": "classic/uk2026-spring-classic.txt",
+   "match": "likely"
+  }
+ }
+}

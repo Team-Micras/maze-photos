@@ -1,0 +1,49 @@
+{
+ "schema": "maze-label/1",
+ "id": "uk-final-2026-classic-1",
+ "image": {
+  "file": "../../maze-photos/frames/uk-final-2026-classic-1.jpg",
+  "sha256": "17650c76ce3488069dd6c16459799f6227f25afc0c15623395073eee9939657f",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/uk2026-spring-classic.txt",
+  "size": 16
+ },
+ "corners": {
+  "clicked": {
+   "image": [
+    [
+     1473.0,
+     1045.5
+    ],
+    [
+     489.0,
+     1040.5
+    ],
+    [
+     531.5,
+     113.0
+    ],
+    [
+     1419.5,
+     105.5
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "factors": {
+  "distortion": "none"
+ },
+ "provenance": {
+  "corners.clicked": "the owner, by hand (~/.cache/maze-photos/annotations.json)"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "uk2025-spring-classic-2",
+ "image": {
+  "file": "../frames/uk2025-spring-classic-2.jpg",
+  "sha256": "74c220c86cc71f501fd0eef481cb9db396a4e7c58893e5b958265a89520f67aa",
+  "width": 1920,
+  "height": 1080
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/uk2025-spring-classic.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     366.2,
+     944.5
+    ],
+    [
+     571.0,
+     120.0
+    ],
+    [
+     1458.0,
+     95.8
+    ],
+    [
+     1847.1,
+     890.9
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     362.7,
+     950.4
+    ],
+    [
+     566.5,
+     115.8
+    ],
+    [
+     1460.8,
+     92.1
+    ],
+    [
+     1853.1,
+     893.6
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  35.9661493245492,
+  94.39545181279456,
+  372.7983540676041,
+  -46.462664118755676,
+  -2.068366454477361,
+  943.4152720103136,
+  0.041321120886390776,
+  0.0019017899607794205,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": 0.04109938564931058,
+  "centre": [
+   960.0,
+   540.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "oblique",
+  "pxPerCell": 64.1
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=SQk96S-ChrM&t=2161s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "schema": "maze-label/1",
+ "id": "other-world85fin-1985-1",
+ "image": {
+  "file": "../frames/other-world85fin-1985-1.jpg",
+  "sha256": "e229443c144a81aa71c40b13b5c32ed1db14058d824cd5b025b9817e6960c1b7",
+  "width": 1280,
+  "height": 720
+ },
+ "pixelConvention": "centre-integer",
+ "maze": {
+  "file": "classic/other-world85fin-1985.txt",
+  "size": 16
+ },
+ "corners": {
+  "oracle": {
+   "image": [
+    [
+     633.0,
+     81.8
+    ],
+    [
+     1157.0,
+     271.0
+    ],
+    [
+     587.0,
+     704.5
+    ],
+    [
+     77.5,
+     221.5
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  "lensfit": {
+   "image": [
+    [
+     632.8,
+     79.4
+    ],
+    [
+     1153.7,
+     269.8
+    ],
+    [
+     586.4,
+     701.6
+    ],
+    [
+     74.5,
+     220.9
+    ]
+   ],
+   "inFrame": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ },
+ "homography": [
+  10.289899659667475,
+  -36.529520596297516,
+  632.8352155316863,
+  6.679804526182617,
+  4.323820887614894,
+  79.06231260090092,
+  -0.01936988768441094,
+  -0.020422510528497344,
+  1.0
+ ],
+ "lensFitApp": {
+  "model": "radial-halfdiag",
+  "k1": -0.007474090489287017,
+  "centre": [
+   640.0,
+   360.0
+  ]
+ },
+ "factors": {
+  "distortion": "none",
+  "view": "oblique",
+  "pxPerCell": 39.8
+ },
+ "provenance": {
+  "source": "https://www.youtube.com/watch?v=CSFtBQo8bRw&t=1800s",
+  "corners.oracle": "tools/tighten.py, fitted against the true maze",
+  "corners.lensfit": "tools/lens.py, corner posts through the fitted lens",
+  "homography": "tools/lens.py, in the undistorted image of lensFitApp"
+ }
+}
